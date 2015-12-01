@@ -1,0 +1,1939 @@
+{
+  "name": "Taxonomy English",
+  "children":
+  [
+    {
+      "name": "Agriculture and fishing",
+      "children":
+      [
+        {
+          "name": "Agriculture",
+          "children":
+          [
+            {
+              "name": "Agricultural policy and administration"
+            },
+            {
+              "name": "Agricultural production",
+              "children":
+              [
+                {
+                  "name": "Agro-industrial production",
+                  "children":
+                  [
+                    {
+                      "name": "Contract farming"
+                    },
+                    {
+                      "name": "Economic land concessions and plantations"
+                    }
+                  ]
+                },
+                {
+                  "name": "Livestock farming"
+                },
+                {
+                  "name": "Organic farming"
+                },
+                {
+                  "name": "Small and medium scale farming"
+                }
+              ]
+            },
+            {
+              "name": "Agricultural management systems and technologies",
+              "children":
+              [
+                {
+                  "name": "Agricultural engineering services and equipment"
+                },
+                {
+                  "name": "Pest management"
+                },
+                {
+                  "name": "Soil management"
+                },
+                {
+                  "name": "Irrigation and water management"
+                }
+              ]
+            },
+            {
+              "name": "Agricultural commodities, processing and products",
+              "children":
+              [
+                {
+                  "name": "Animal products",
+                  "children":
+                  [
+                    {
+                      "name": "Dairy"
+                    },
+                    {
+                      "name": "Meat"
+                    },
+                    {
+                      "name": "Leather"
+                    },
+                    {
+                      "name": "Poultry and eggs"
+                    }
+                  ]
+                },
+                {
+                  "name": "Crop products and commodities",
+                  "children":
+                  [
+                 {
+                   "name": "Biofuel crops",
+                   "children":
+                    [
+                      {
+        "name": "Cassava"
+                      },
+                      {
+        "name": "Jatropha"
+                      },
+                      {
+        "name": "Sugar bagasse"
+                      }
+                    ]
+                 },
+                 {
+                    "name": "Cashews"
+                 },
+                 {
+                    "name": "Fruits and vegetables"
+                 },
+                 {
+                    "name": "Maize (corn)"
+                 },
+                 {
+                   "name": "Palm oil"
+                 },
+                 {
+                    "name": "Rice"
+                 },
+                 {
+                    "name": "Rubber"
+                 },
+                 {
+                    "name": "Soybean"
+                 },
+                 {
+                    "name": "Sugarcane"
+                 }
+                  ]
+                }
+             ]
+            }
+          ]
+        },
+        {
+          "name": "Fishing, fisheries and aquaculture",
+          "children":
+          [
+            {
+              "name": "Fishing policy and administration"
+            },
+            {
+              "name": "Fisheries production",
+              "children":
+              [
+                {
+                  "name": "Wild capture commercial fishing and natural fisheries"
+                },
+                {
+                  "name": "Community fisheries"
+                },
+                {
+                  "name": "Fish farming and aquaculture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+     "name": "Aid and development",
+     "children":
+      [
+        {
+          "name": "Development policy and administration"
+        },
+        {
+          "name": "Multilateral development assistance",
+          "children":
+          [
+            {
+              "name": "Asian Development Bank (ADB)"
+            },
+            {
+              "name": "China Development Bank (CDB)"
+            },
+            {
+              "name": "Food and Agriculture Organization (FAO)"
+            },
+            {
+              "name": "International Monetary Fund (IMF)"
+            },
+            {
+              "name": "United Nations"
+            },
+            {
+              "name": "World Bank"
+            }
+          ]
+        },
+        {
+          "name": "Bilateral development assistance",
+          "children":
+          [
+            {
+              "name": "Development Assistance Committee (DAC) members",
+              "children":
+              [
+                {
+                  "name": "Australian aid"
+                },
+                {
+                  "name": "European Union aid"
+                },
+                {
+                  "name": "German aid"
+                },
+                {
+                  "name": "Japanese aid"
+                },
+                {
+                  "name": "South Korean aid"
+                },
+                {
+                  "name": "Swedish aid"
+                },
+                {
+                  "name": "United States aid"
+                }
+              ]
+            },
+            {
+              "name": "Non-DAC members",
+              "children":
+              [
+                {
+                  "name": "Chinese aid"
+                },
+                {
+                  "name": "Indian aid"
+                },
+                {
+                  "name": "Malaysian aid"
+                }
+              ]
+            },
+            {
+              "name": "Private non-profit development assistance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disasters and emergency response",
+      "children":
+      [
+        {
+          "name": "Disaster preparedness and emergency response policy and administration"
+        },
+        {
+          "name": "Non-governmental preparedness and response agencies",
+          "children":
+          [
+            {
+              "name": "Red Cross"
+            },
+            {
+              "name": "Disasters and emergency response funding"
+            },
+            {
+              "name": "Disaster and emergency response NGOs"
+            }
+          ]
+        },
+        {
+          "name": "Disasters",
+          "children":
+          [
+            {
+              "name": "Drought"
+            },
+            {
+              "name": "Fires"
+            },
+            {
+              "name": "Floods"
+            },
+            {
+              "name": "Storms"
+            },
+            {
+              "name": "Earthquakes"
+            },
+            {
+              "name": "Tsunamis"
+            },
+            {
+              "name": "Pandemics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economy and commerce",
+      "children":
+      [
+        {
+          "name": "Economic policy and administration",
+          "children":
+          [
+            {
+              "name": "Business structures and legal registration"
+            }
+          ]
+        },
+        {
+          "name": "Banking and financial services",
+          "children":
+          [
+            {
+              "name": "Banking and financial services policy and regulation"
+            },
+            {
+              "name": "Major banks"
+            },
+            {
+              "name": "Micro-finance"
+            }
+          ]
+        },
+        {
+          "name": "Business associations",
+          "children":
+          [
+            {
+              "name": "American Chambers of Commerce"
+            },
+            {
+              "name": "Australian Chamber of Commerce"
+            },
+            {
+              "name": "Local chamber of commerce"
+            },
+            {
+              "name": "Chinese business associations"
+            }
+          ]
+        },
+        {
+          "name": "Investment",
+          "children":
+          [
+            {
+              "name": "Investment policy and regulations",
+              "children":
+               [
+                {
+                 "name": "Domestic investors"
+             },
+              {
+                 "name": "Foreign investors"
+              }
+          ]
+            }
+          ]
+        },
+        {
+          "name": "Small and medium enterprises (SME)",
+          "children":
+          [
+            {
+              "name": "SMEs policy and regulation"
+            },
+            {
+              "name": "Trade",
+              "children":
+              [
+                {
+                  "name": "Trade policy and regulation"
+                },
+                {
+                  "name": "Imports"
+                },
+                {
+                  "name": "Exports"
+                }
+              ]
+            },
+            {
+              "name": "Securities exchange (stock market)",
+              "children":
+              [
+                {
+                  "name": "Securities exchange policy and regulation"
+                },
+                {
+                  "name": "Stock market"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+     "name": "Energy",
+      "children":
+      [
+        {
+          "name": "Energy policy and administration"
+        },
+        {
+          "name": "Electricity production",
+          "children":
+          [
+            {
+              "name": "Non-renewable energy production"
+            },
+            {
+              "name": "Hydropower dams"
+            },
+            {
+              "name": "Renewable energy production"
+            }
+          ]
+        },
+        {
+          "name": "Energy for transport"
+        },
+        {
+          "name": "Cooking fuel"
+        }
+      ]
+    },
+    {
+      "name": "Environment and natural resources",
+      "children":
+      [
+        {
+          "name": "Ecological services"
+        },
+        {
+          "name": "Biodiversity",
+          "children":
+          [
+            {
+               "name": "Animals"
+            },
+            {
+              "name": "Plants"
+            },
+            {
+              "name": "Ecosystems"
+            }
+          ]
+        },
+        {
+          "name": "Environment and natural resources policy and administration",
+          "children":
+          [
+
+            {
+              "name": "Overview of policy and legal framework",
+              "children":
+              [
+               {
+                  "name": "Relevant ministries"
+                },
+                {
+                  "name": "Types of state-protected areas"
+                }
+              ]
+            },
+            {
+              "name": "Environmental impact assessments"
+            }
+          ]
+        },
+        {
+         "name": "Climate change",
+         "children":
+         [
+            {
+              "name": "Adaptation"
+            },
+            {
+              "name": "Mitigation",
+              "children":
+              [
+                {
+                  "name": "Clean development mechanism"
+                },
+                {
+                  "name": "Nationally Appropriate Mitigation Action"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental and biodiversity protection"
+       },
+       {
+          "name": "Pollution and waste",
+          "children":
+          [
+            {
+              "name": "Air pollution"
+            },
+            {
+              "name": "Water pollution"
+            },
+            {
+              "name": "Solid waste"
+            },
+            {
+              "name": "Electronic waste"
+            }
+          ]
+        },
+        {
+          "name": "Forests and forestry",
+          "children":
+          [
+            {
+              "name": "Forest policy and administration"
+            },
+            {
+              "name": "Forest cover",
+              "children":
+              [
+                {
+                  "name": "Forest cover reporting"
+                },
+                {
+                  "name": "Deforestration drivers"
+                }
+              ]
+            },
+            {
+              "name": "Forest classifications",
+              "children":
+              [
+                {
+                  "name": "Terms and definitions",
+                  "children":
+                  [
+                   {
+                      "name": "Dense forest"
+                    },
+                    {
+                      "name": "Regenerated forest"
+                    },
+                    {
+                      "name": "Secondary/mixed forest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Forest products",
+              "children":
+              [
+                {
+                  "name": "Forest industry",
+                  "children":
+                  [
+                    {
+                      "name": "Logging and timber"
+                    },
+                    {
+                      "name": "Tree plantation",
+                      "children":
+                      [
+                        {
+                          "name": "Hardwoods"
+                        },
+                        {
+                          "name": "Paper and pulp",
+                          "children":
+                          [
+                            {
+                              "name": "Acacia"
+                            },
+                            {
+                              "name": "Eucalyptus"
+                            },
+                            {
+                              "name": "Pine"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                     "name": "Forest trade and finance"
+                    }
+                  ]
+                },
+                {
+                  "name": "Non-timber forest products"
+                },
+                {
+                  "name": "Plantation timber"
+                },
+                {
+                  "name": "Forest protection",
+                  "children":
+                  [
+                    {
+                      "name": "Forest protection support",
+                      "children":
+                      [
+                       {
+                        "name": "Forest protection funding"
+                       },
+                       {
+                        "name": "Forest protection NGOs"
+                       }
+                      ]
+                    },
+                    {
+                      "name": "Protected areas",
+                      "children": [
+                        {
+                          "name": "Protected forests"
+                        },
+                        {
+                          "name": "Community forest"
+                        },
+                        {
+                          "name": "Sustainable use forest"
+                        },
+                        {
+                          "name": "National parks and wildlife sanctuaries"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water resources",
+          "children": [
+            {
+              "name": "Water policy and administration",
+              "children":
+              [
+                {
+                  "name": "Water rights"
+                }
+              ]
+            },
+            {
+              "name": "Ground water"
+            },
+            {
+              "name": "Rivers and lakes"
+            },
+            {
+              "name": "Marine and coastal areas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Extractive industries",
+      "children":
+      [
+        {
+          "name": "Extractive industries policy and administration",
+          "children":
+          [
+            {
+              "name": "Extractive industries licensing and payments"
+            },
+            {
+              "name": "Extractive industries revenue"
+            }
+          ]
+        },
+        {
+          "name": "Mining",
+          "children":
+          [
+            {
+              "name": "Artisanal mining"
+            },
+            {
+              "name": "Gemstone mining"
+            },
+            {
+              "name": "Industrial mining"
+            },
+            {
+              "name": "Quarrying"
+            }
+          ]
+        },
+        {
+          "name": "Minerals and mineral products",
+          "children":
+          [
+            {
+              "name": "Coal"
+            },
+            {
+              "name": "Copper"
+            },
+            {
+              "name": "Gemstones"
+            },
+            {
+              "name": "Gold"
+            },
+            {
+              "name": "Gravel and limestone"
+            },
+            {
+              "name": "Iron and steel"
+            },
+            {
+              "name": "Uranium"
+            }
+          ]
+        },
+        {
+          "name": "Oil and gas resources",
+          "children":
+          [
+            {
+              "name": "On-shore oil and gas exploration and extraction"
+            },
+            {
+              "name": "Off-shore oil and gas exploration and extraction"
+            },
+            {
+              "name": "Oil refineries"
+            },
+            {
+              "name": "Oil transport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Government",
+      "children":
+      [
+        {
+          "name": "System of government"
+        },
+        {
+          "name": "National government",
+          "children":
+          [
+            {
+              "name": "Head of state"
+            },
+            {
+              "name": "Executive"
+            },
+            {
+              "name": "Parliament"
+            },
+            {
+              "name": "Ministries and other national bodies"
+            }
+          ]
+        },
+        {
+          "name": "Provincial and local governments",
+          "children":
+          [
+            {
+              "name": "Administration"
+            },
+            {
+              "name": "Decentralization and deconcentration"
+            }
+          ]
+        },
+        {
+          "name": "Elections"
+        },
+        {
+          "name": "Budget"
+        },
+        {
+          "name": "Taxation"
+        },
+        {
+          "name": "Government services"
+        },
+        {
+          "name": "Procurement"
+        },
+        {
+          "name": "Anti-corruption"
+        },
+        {
+          "name": "International relations"
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "children":
+      [
+        {
+          "name": "Construction",
+          "children":
+          [
+            {
+              "name": "Construction policy and regulation"
+            },
+            {
+              "name": "Major companies and projects"
+            }
+          ]
+        },
+        {
+          "name": "Handicrafts",
+          "children":
+          [
+            {
+              "name": "Handicrafts industry policy and regulation"
+            },
+            {
+              "name": "Development and assistance for handicrafts industry",
+              "children":
+              [
+                {
+                  "name": "Handicrafts industry assistance funding"
+                },
+                {
+                  "name": "Handicrafts industry assistance NGOs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Manufacturing",
+          "children":
+          [
+            {
+              "name": "Manufacturing policy and regulation"
+            },
+            {
+              "name": "Agricultural processing",
+              "children":
+              [
+                {
+                  "name": "Animal feed"
+                },
+                {
+                  "name": "Biofuels"
+                },
+                {
+                  "name": "Fertilizer"
+                },
+                {
+                  "name": "Rubber"
+                }
+              ]
+            },
+            {
+              "name": "Cars"
+            },
+            {
+              "name": "Food processing",
+              "children":
+              [
+                {
+                  "name": "Beverages"
+                },
+                {
+                  "name": "Fish and seafood"
+                },
+                {
+                  "name": "Meat and meat products"
+                },
+                {
+                  "name": "Milk and milk products"
+                },
+                {
+                  "name": "Processed foods"
+                },
+                {
+                  "name": "Salt"
+                }
+              ]
+            },
+          {
+            "name": "Furniture",
+            "children":
+            [
+              {
+                "name": "Furniture policy and regulation"
+              }
+            ]
+          },
+          {
+            "name": "Garments and textiles",
+            "children":
+            [
+              {
+                "name": "Clothes"
+              },
+              {
+                "name": "Shoes"
+              },
+              {
+                "name": "Cotton and silk"
+              }
+            ]
+          },
+          {
+            "name": "Mineral processing and products",
+            "children":
+            [
+              {
+                "name": "Bricks and tiles"
+              },
+              {
+                "name": "Cement"
+              },
+              {
+                "name": "Oil"
+              },
+              {
+                "name": "Steel"
+              }
+            ]
+          },
+          {
+            "name": "Real estate"
+          },
+          {
+            "name": "Tourism"
+          },
+          {
+            "name": "Gaming"
+          }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "children": [
+        {
+          "name": "Communications",
+          "children": [
+            {
+              "name": "Communications policy and administration"
+            },
+            {
+              "name": "Communications infrastructure",
+              "children": [
+                {
+                  "name": "Internet"
+                },
+                {
+                  "name": "Radio"
+                },
+                {
+                  "name": "Telephone",
+                  "children": [
+                    {
+                      "name": "Landline"
+                    },
+                    {
+                      "name": "Mobile"
+                    }
+                  ]
+                },
+                {
+                  "name": "Television"
+                }
+              ]
+            },
+            {
+              "name": "Development and funding for communications"
+            }
+          ]
+        },
+        {
+          "name": "Electricity infrastructure",
+          "children": [
+            {
+              "name": "Electricity policy and administration"
+            },
+            {
+              "name": "Generation and distribution facilities"
+            },
+            {
+              "name": "Development and funding for electricity"
+            }
+          ]
+        },
+        {
+          "name": "Markets",
+          "children": [
+            {
+              "name": "Markets policy and regulation"
+            },
+            {
+              "name": "Vendors",
+              "children": [
+                {
+                  "name": "Vendor rights"
+                },
+                {
+                 "name": "Vendor associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Transport and shipping",
+          "children": [
+            {
+              "name": "Transport and shipping policy and administration"
+            },
+            {
+              "name": "Transport infrastructure and facilities",
+              "children": [
+                {
+                  "name": "Airports and air travel"
+                },
+                {
+                  "name": "Roads and bridges"
+                },
+                {
+                  "name": "Rail"
+                },
+                {
+                  "name": "Waterways and ports"
+                }
+              ]
+            },
+            {
+              "name": "Development and funding for transport"
+            }
+          ]
+        },
+        {
+          "name": "Water and sanitation",
+          "children": [
+            {
+              "name": "Water and sanitation policy and administration"
+            },
+            {
+              "name": "Water quality testing"
+            },
+            {
+              "name": "Development assistance for water and sanitation",
+              "children": [
+                {
+                  "name": "Water and sanitation funding"
+                },
+                {
+                  "name": "Water and sanitation NGOs"
+                }
+              ]
+            },
+            {
+              "name": "Water and sanitation infrastructure and facilities",
+              "children": [
+                {
+                  "name": "Rural water and sanitation infrastructure",
+                  "children": [
+                    {
+                      "name": "Rural water supply"
+                    },
+                    {
+                      "name": "Rural sanitation"
+                    }
+                  ]
+                },
+                {
+                  "name": "Urban water and sanitation infrastructure",
+                  "children": [
+                    {
+                      "name": "Urban water supplies and distribution"
+                    },
+                    {
+                      "name": "Urban sanitation infrastructure"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Labor",
+      "children": [
+        {
+          "name": "Labor policy and administration",
+          "children": [
+            {
+              "name": "Minimum wage"
+            },
+            {
+              "name": "Safety and health at work"
+            },
+            {
+              "name": "Worker rights"
+            },
+            {
+              "name": "Protection for overseas workers"
+            }
+          ]
+        },
+        {
+          "name": "Formal labor"
+        },
+        {
+          "name": "Informal labor"
+        },
+        {
+          "name": "Offshore recruitment and employment"
+        },
+        {
+          "name": "Illegal labor",
+          "children": [
+            {
+              "name": "Human trafficking"
+            },
+            {
+              "name": "Child labor"
+            },
+            {
+              "name": "Commercial sex labor"
+            }
+          ]
+        },
+        {
+          "name": "Unions"
+        },
+        {
+          "name": "Labor arbitration"
+        },
+        {
+          "name": "Development assistance for labor rights and labor unions",
+          "children": [
+            {
+              "name": "Labor rights and labor unions funding"
+            },
+            {
+              "name": "Labor rights and labor unions NGOs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "children": [
+        {
+          "name": "Land policy and administration"
+        },
+        {
+          "name": "Land classifications",
+          "children": [
+            {
+              "name": "State public land"
+            },
+            {
+              "name": "State private land"
+            },
+            {
+              "name": "Private land"
+            }
+          ]
+        },
+        {
+          "name": "Land tenure and land titling",
+          "children": [
+            {
+              "name": "Development and assistance for land tenure and land titling",
+              "children":
+              [
+               {
+                "name": "Land tenure and land titling funding"
+               },
+               {
+                "name": "Land tenure and land titling NGOs"
+               }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Land transfers",
+          "children": [
+            {
+              "name": "Land sales and trades"
+            },
+            {
+              "name": "Expropriation"
+            }
+          ]
+        },
+        {
+          "name": "Public land lease",
+          "children": [
+            {
+              "name": "Concessions"
+            },
+            {
+              "name": "Special economic zones"
+            }
+          ]
+        },
+        {
+          "name": "Communal land"
+        },
+        {
+          "name": "Social land concessions"
+        },
+        {
+          "name": "Landmines, UXO and demining"
+        }
+      ]
+    },
+    {
+      "name": "Law and judiciary",
+      "children": [
+        {
+          "name": "Constitution and rights"
+        },
+        {
+          "name": "Law making process"
+        },
+        {
+          "name": "Legal framework",
+          "children": [
+            {
+              "name": "International laws and treaties "
+            },
+            {
+              "name": "Laws and regulations"
+            },
+            {
+              "name": "Rights of the accused"
+            }
+          ]
+        },
+        {
+          "name": "Legal system and judicial system",
+          "children": [
+            {
+              "name": "Judiciary and courts",
+              "children": [
+                {
+                  "name": "Law on judiciary"
+                },
+                {
+                  "name": "Judiciary and court structure"
+                },
+                {
+                  "name": "Court monitoring"
+                }
+              ]
+            },
+            {
+              "name": "Criminal litigation"
+            },
+            {
+              "name": "Civil and commercial litigation"
+            },
+            {
+              "name": "Alternative dispute resolution"
+            }
+          ]
+        },
+        {
+          "name": "Legal aid",
+          "children": [
+            {
+              "name": "Legal aid policy and regulation"
+            },
+            {
+              "name": "Legal aid providers",
+              "children": [
+                {
+                  "name": "Bar Association and legal aid services"
+                },
+                {
+                  "name": "Legal aid NGOs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Legal and judicial reform",
+          "children": [
+            {
+              "name": "Development and assistance for judicial reform",
+              "children": [
+                {
+                  "name": "Legal and judicial reform funding"
+                },
+                {
+                  "name": "Legal and judicial reform NGOs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Legal professions and services",
+          "children": [
+            {
+              "name": "Regulation of legal professions",
+              "children": [
+                {
+                  "name": "Regulation of judges"
+                },
+                {
+                  "name": "Regulation of lawyers"
+                },
+                {
+                  "name": "Regulation of court clerks"
+                }
+              ]
+            },
+            {
+              "name": "Bar Association"
+            },
+            {
+              "name": "Public and administrative legal services"
+            },
+            {
+              "name": "Legal education for professionals",
+              "children": [
+              {
+                "name": "Judge education"
+              },
+              {
+                "name": "Lawyer education"
+              },
+              {
+                "name": "Court clerk education"
+              }
+            ]
+          },
+          {
+            "name": "Legal education for the public"
+          }
+        ]
+      },
+      {
+        "name": "Crime and law enforcement",
+        "children": [
+          {
+            "name": "Crimes"
+          },
+          {
+            "name": "Traffic violation"
+          },
+          {
+            "name": "Police"
+          },
+          {
+            "name": "Prisons",
+            "children": [
+               {
+                  "name": "Prisons policy and administration"
+               },
+               {
+                  "name": "Prisoner rights"
+               },
+               {
+                 "name": "Prison monitoring"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Population and censuses",
+      "children": [
+        {
+          "name": "Population",
+          "children": [
+            {
+              "name": "Demographics"
+            },
+            {
+              "name": "Migration",
+              "children": [
+                {
+                  "name": "Immigration"
+                },
+                {
+                  "name": "Emigration"
+                },
+                {
+                  "name": "Informal migration for labor",
+                  "children": [
+                    {
+                      "name": "Foreign workers in country"
+                    },
+                    {
+                      "name": "Local workers abroad"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Censuses"
+        },
+        {
+          "name": "Provincial profiles"
+        }
+      ]
+    },
+    {
+      "name": "Social development",
+      "children": [
+        {
+          "name": "Arts",
+          "children": [
+            {
+              "name": "Arts policy and administration"
+            },
+            {
+              "name": "Arts education"
+            },
+            {
+              "name": "Arts support",
+              "children": [
+                {
+                  "name": "Arts funding"
+                },
+                {
+                  "name": "Arts NGOs"
+                },
+                {
+                  "name": "Arts associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The aged",
+          "children": [
+            {
+              "name": "The aged policy and administration"
+            },
+            {
+              "name": "Development and assistance for the aged",
+              "children": [
+                {
+                  "name": "The aged assistance funding"
+                },
+                {
+                  "name": "The aged assistance NGOs"
+                },
+                {
+                  "name": "Seniors associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Civil society",
+          "children": [
+            {
+              "name": "Civil society policy and regulation"
+            },
+            {
+              "name": "Non-governmental organizations"
+            },
+            {
+              "name": "Associations and other membership groups"
+            },
+            {
+              "name": "Civil society coalitions and cooperation"
+            }
+          ]
+        },
+        {
+          "name": "Disabled persons",
+          "children": [
+            {
+              "name": "Disabled persons policy and administration",
+              "children": [
+                {
+                  "name": "Disabled persons rights"
+                }
+              ]
+            },
+            {
+              "name": "Development and assistance for disabled persons",
+              "children": [
+                {
+                  "name": "Disabled persons assistance funding"
+                },
+                {
+                  "name": "Disabled persons assistance NGOs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Education and training",
+          "children": [
+            {
+              "name": "Education policy and administration"
+            },
+            {
+              "name": "Pre school"
+            },
+            {
+              "name": "Primary and secondary education"
+            },
+            {
+              "name": "Vocational education"
+            },
+            {
+              "name": "Higher education",
+              "children": [
+                {
+                  "name": "Universities"
+                },
+                {
+                  "name": "Graduate programs"
+                },
+                {
+                  "name": "Study abroad"
+                }
+              ]
+            },
+            {
+              "name": "Adult literacy"
+            },
+            {
+              "name": "Development and assistance for education",
+              "children": [
+                {
+                  "name": "Education funding"
+                },
+                {
+                  "name": "Education NGOs"
+                },
+                {
+                  "name": "Education associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ethnic minorities and indigenous people",
+          "children": [
+            {
+              "name": "Ethnic minorities and indigenous people profiles"
+            },
+            {
+              "name": "Ethnic minorities and indigenous people policy and rights"
+            },
+            {
+              "name": "Development and assistance for ethnic minorities and indigenous people",
+              "children": [
+                {
+                  "name": "Ethnic minorities and indigenous people development funding"
+                },
+                {
+                  "name": "Ethnic minorities and indigenous people development NGOs"
+                },
+                {
+                  "name": "Ethnic minorities and indigenous people associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Family, children and youth",
+          "children": [
+            {
+              "name": "Family, children, and youth policy and administration",
+              "children": [
+                {
+                  "name": "Child rights"
+                },
+                {
+                  "name": "Child labor"
+                },
+                {
+                  "name": "Access to education"
+                },
+                {
+                  "name": "Domestic violence"
+                }
+              ]
+            },
+            {
+              "name": "Marriage and divorce"
+            },
+            {
+              "name": "Orphans and children without homes"
+            },
+            {
+              "name": "Development and assistance for families, children and youth",
+              "children": [
+                {
+                  "name": "Families, children and youth funding"
+                },
+                {
+                  "name": "families, children and youth development NGOs"
+                },
+                {
+                  "name": "Youth associations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gender",
+          "children": [
+            {
+              "name": "Lesbian, gay, bi-sexual, transgender, and queer (LGBTQ)",
+              "children": [
+                {
+                  "name": "LGBTQ policy and rights"
+                },
+                {
+                  "name": "Development and assistance for LGBTQ community",
+                  "children": [
+                    {
+                      "name": "LGBTQ funding"
+                    },
+                    {
+                      "name": "LGBTQ development NGOs"
+                    },
+                    {
+                      "name": "LGBTQ associations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Women",
+              "children": [
+                {
+                  "name": "Women policy and administration",
+                  "children": [
+                    {
+                      "name": "Womens rights"
+                    }
+                  ]
+                },
+                {
+                  "name": "Women in government and politics"
+                },
+                {
+                  "name": "Women in development"
+                },
+                {
+                  "name": "Women in the family"
+                },
+                {
+                  "name": "Development and assistance for women",
+                  "children": [
+                    {
+                      "name": "Women's development funding"
+                    },
+                    {
+                      "name": "Women's development NGOs"
+                    },
+                    {
+                      "name": "Women's associations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Human rights",
+              "children": [
+                {
+                  "name": "Civil and political rights",
+                  "children": [
+                    {
+                      "name": "Freedom of expression"
+                    },
+                    {
+                      "name": "Freedom of association"
+                    },
+                    {
+                      "name": "Access to information"
+                    }
+                  ]
+                },
+                {
+                  "name": "Economic, social and cultural rights",
+                  "children": [
+                    {
+                      "name": "Free, prior and informed consent (FPIC)"
+                    },
+                    {
+                      "name": "Land and housing rights and evictions"
+                    },
+                    {
+                      "name": "Religious freedom",
+                      "children": [
+                        {
+                          "name": "Buddhist clergy rights"
+                        },
+                        {
+                          "name": "Minority religions"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Livelihood rights"
+                    }
+                  ]
+                },
+                {
+                  "name": "Development and assistance for human rights",
+                  "children": [
+                    {
+                      "name": "Human rights funding"
+                    },
+                    {
+                      "name": "Human rights NGOs"
+                    },
+                    {
+                      "name": "Human rights associations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "The poor",
+              "children": [
+                {
+                  "name": "Poverty policy and regulation",
+                  "children": [
+                    {
+                      "name": "poverty reduction"
+                    },
+                    {
+                      "name": "Food security"
+                    },
+                    {
+                      "name": "Access to education and health care"
+                    }
+                  ]
+                },
+                {
+                  "name": "Development assistance for poverty reduction and food security",
+                  "children": [
+                    {
+                      "name": "Poverty reduction and food securities assistance funding"
+                    },
+                    {
+                      "name": "Poverty reduction and food securities assistance NGOs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Public health",
+              "children": [
+                {
+                  "name": "Health care policy and administration",
+                  "children": [
+                    {
+                      "name": "Patient rights"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hospitals and clinics"
+                },
+                {
+                  "name": "Mental health and social services"
+                },
+                {
+                  "name": "Medical professionals",
+                  "children": [
+                    {
+                      "name": "Medical education and training"
+                    },
+                    {
+                      "name": "Medical certification and regulation"
+                    },
+                    {
+                      "name": "Medical professional associations"
+                    }
+                  ]
+                },
+                {
+                  "name": "Pharmaceuticals"
+                },
+                {
+                  "name": "Priority health concerns",
+                  "children": [
+                    {
+                      "name": "Avian flu (bird flu)"
+                    },
+                    {
+                      "name": "HIV/AIDS"
+                    },
+                    {
+                      "name": "Malaria"
+                    },
+                    {
+                      "name": "Maternal and child health"
+                    },
+                    {
+                      "name": "Tuberculosis"
+                    }
+                  ]
+                },
+                {
+                  "name": "Development assistance for health sector",
+                  "children": [
+                    {
+                      "name": "Public health assistance funding"
+                    },
+                    {
+                      "name": "Public health assistance NGOs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Social security and veterans",
+              "children":
+              [
+                {
+                  "name": "Social security and veterans policy and administration"
+                }
+              ]
+            },
+            {
+              "name": "Sport",
+              "children": [
+                {
+                  "name": "Sports policy and administration"
+                },
+                {
+                  "name": "Sports education and training"
+                },
+                {
+                  "name": "Development and assistance for sports",
+                  "children": [
+                    {
+                      "name": "Sports development and assistance funding"
+                    },
+                    {
+                      "name": "Sports development and assistance NGOs"
+                    }
+                  ]
+                },
+                {
+                  "name": "Public sports venues"
+                },
+                {
+                  "name": "Sports leagues"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urban administration and development",
+      "children": [
+        {
+          "name": "Urban development trends"
+        },
+        {
+          "name": "Urban policy and administration"
+        },
+        {
+          "name": "City profiles"
+        }
+      ]
+    },
+    {
+      "name": "Science and technology",
+      "children":
+      [
+        {
+          "name": "Science and technology policy and administration"
+        },
+        {
+          "name": "Science and technology research and development"
+        },
+        {
+          "name": "Technologies",
+          "children":
+          [
+            {
+              "name": "Atomic energy and nuclear technology"
+            },
+            {
+              "name": "Material science"
+            },
+            {
+              "name": "Open technologies"
+            },
+            {
+              "name": "Space technologies"
+            }
+          ]
+        },
+        {
+          "name": "Science and technology education and promotion"
+        }
+      ]
+    }
+  ]
+}
