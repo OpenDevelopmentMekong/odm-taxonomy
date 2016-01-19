@@ -52,7 +52,7 @@
   "name": "Economy",
   "titles": {
     "en": "Economy",
-    "km": "Economy",
+    "km": "សេដ្ឋកិច្ច ",
     "th": "Economy",
     "vi": "Economy"
   },
@@ -85,7 +85,7 @@
     "name": "Industry",
     "titles": {
       "en": "Industry",
-      "km": "Industry",
+      "km": "ឧស្សាហកម្ម",
       "th": "Industry",
       "vi": "Industry"
     }
@@ -102,7 +102,7 @@
   "name": "People",
   "titles": {
     "en": "People",
-    "km": "People",
+    "km": "មនុស្ស",
     "th": "People",
     "vi": "People"
   },
