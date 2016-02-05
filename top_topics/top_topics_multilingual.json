@@ -1,10 +1,10 @@
 [{
-  "name": "Land",
+  "name": "ENVIRONMENT AND LAND",
   "titles": {
-    "en": "Land",
-    "km": "ដី",
-    "th": "ที่ดิน",
-    "vi": "Đất"
+    "en": "ENVIRONMENT AND LAND",
+    "km": "បរិស្ថាន និងដី",
+    "th": "สิ่งแวดล้อมและที่ดิน",
+    "vi": "MÔI TRƯỜNG VÀ ĐẤT"
   },
   "children": [{
     "name": "Agriculture and fishing",
@@ -39,7 +39,7 @@
       "vi": "Ngành công nghiệp khai thác"
     }
   }, {
-    "name": "ENVIRONMENT AND LAND",
+    "name": "LAND",
     "titles": {
       "en": "Land",
       "km": "ដី",
