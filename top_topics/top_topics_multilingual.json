@@ -39,7 +39,7 @@
       "vi": "Ngành công nghiệp khai thác"
     }
   }, {
-    "name": "Land",
+    "name": "ENVIRONMENT AND LAND",
     "titles": {
       "en": "Land",
       "km": "ដី",
@@ -96,6 +96,14 @@
       "km": "ពលកម្ម",
       "th": "แรงงาน",
       "vi": "Lao động"
+    }
+  }, {
+    "name": "Science and technology",
+    "titles": {
+      "en": "Science and technology",
+      "km": "វិទ្យាសាស្ត្រ និងបច្ចេកវិទ្យា",
+      "th": "",
+      "vi": ""
     }
   }]
 }, {
