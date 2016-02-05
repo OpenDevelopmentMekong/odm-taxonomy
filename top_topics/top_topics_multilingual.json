@@ -165,6 +165,6 @@
       "th": "การบริหารและการพัฒนาเมือง",
       "vi": "Quản lý nhà nước về đô thị và phát triển đô thị"
     },
-    "class": "multiline-menu-item"
+   "class": "tooltip"
   }]
 }]
