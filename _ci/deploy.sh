@@ -15,7 +15,7 @@ if [ $TRAVIS_TAG ]; then
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
-    time ./deploy ckan prod
+    time ./deploy.sh ckan prod
 
 else
 
@@ -24,7 +24,7 @@ else
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
-    time ./deploy ckan dev
+    time ./deploy.sh ckan dev
 
 fi
 
