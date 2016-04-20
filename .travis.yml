@@ -1,7 +1,6 @@
 language: python
 python:
   - 2.7
-before_install: openssl aes-256-cbc -K $encrypted_38bb2f7e569a_key -iv $encrypted_38bb2f7e569a_iv -in odm_tech_rsa.enc -out ~/.ssh/id_rsa -d
 install: _ci/install.sh
 script: nosetests
 deploy:
@@ -9,7 +8,7 @@ deploy:
   script: _ci/deploy.sh
   skip_cleanup: true
   on:
-    branch: master
+    branch: impl-10
 - provider: script
   script: _ci/deploy.sh
   skip_cleanup: true
