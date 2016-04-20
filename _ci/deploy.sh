@@ -2,6 +2,8 @@
 
 set -e;
 cd /tmp/odm-automation-master
+ls -la ~/.ssh/
+ssh-add ~/.ssh/id_rsa
 
 echo "$(tput setaf 136)"
 echo "             Starting Deployment "
