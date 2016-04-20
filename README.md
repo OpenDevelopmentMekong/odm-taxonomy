@@ -6,17 +6,9 @@ Repository with definition for the taxonomic structure used across ODM component
 
 See https://wiki.opendevelopmentmekong.net/internal:updating_the_system_s_taxonomy
 
-### Testing
+# Testing
 
-Install tests dependencies
-
-```
-pip install -r dev-requirements
-```
-
-Run tests
-
-Run ```nosetests tests/```
+Tests are found on ckanext/odm_dataset/tests and can be run with ```nosetest```
 
 ### Continuous deployment
 
