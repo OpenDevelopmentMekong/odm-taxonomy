@@ -2,7 +2,9 @@
 
 set -e;
 cd /tmp/odm-automation-master
-ls -la ~/.ssh/
+
+echo "Adding ssh key to agent"
+eval `ssh-agent -s`
 ssh-add ~/.ssh/id_rsa
 
 echo "$(tput setaf 136)"
