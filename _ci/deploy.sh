@@ -3,11 +3,6 @@
 set -e;
 cd /tmp/odm-automation-master
 
-echo "Adding ssh key to agent"
-eval `ssh-agent -s`
-chmod 600 ~/.ssh/id_rsa
-ssh-add ~/.ssh/id_rsa
-
 echo "$(tput setaf 136)"
 echo "             Starting Deployment "
 echo "============================================="
