@@ -15,6 +15,7 @@ if [ $TRAVIS_TAG ]; then
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
+    openssl aes-256-cbc -K $encrypted_38bb2f7e569a_key -iv $encrypted_38bb2f7e569a_iv -in odm_tech_rsa.enc -out ~/.ssh/id_rsa -d
     export ANSIBLE_HOST_KEY_CHECKING=False
     time ./deploy.sh ckan prod
 
@@ -25,6 +26,7 @@ else
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
+    openssl aes-256-cbc -K $encrypted_38bb2f7e569a_key -iv $encrypted_38bb2f7e569a_iv -in odm_tech_rsa.enc -out ~/.ssh/id_rsa -d
     export ANSIBLE_HOST_KEY_CHECKING=False
     time ./deploy.sh ckan dev
 
