@@ -15,6 +15,7 @@ if [ $TRAVIS_TAG ]; then
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
+    export ANSIBLE_HOST_KEY_CHECKING=False
     time ./deploy.sh ckan prod
 
 else
@@ -24,6 +25,7 @@ else
     echo "---------------------------------------------"
     echo "$(tput sgr0)" # reset
 
+    export ANSIBLE_HOST_KEY_CHECKING=False
     time ./deploy.sh ckan dev
 
 fi
