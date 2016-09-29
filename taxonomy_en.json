@@ -377,32 +377,18 @@
 				}]
 			}]
 		}, {
-			"name": "Water",
+			"name": "Water resources",
 			"children": [{
-				"name": "Water resources",
+				"name": "Water policy and administration",
 				"children": [{
-					"name": "Rain and snow"
-				}, {
-					"name": "Surface water",
-					"children": [{
-						"name": "Marine and coastal areas"
-					}, {
-						"name": "Rivers and lakes"
-					}]
-				}, {
-					"name": "Ground water"
+					"name": "Water rights"
 				}]
 			}, {
-				"name": "Human demands and implications"
+				"name": "Ground water"
 			}, {
-				"name": "Water governance",
-				"children": [{
-					"name": "Trends and challenges"
-				}, {
-					"name": "Water policy and related institutions"
-				}, {
-					"name": "Rights and legal frameworks"
-				}]
+				"name": "Rivers and lakes"
+			}, {
+				"name": "Marine and coastal areas"
 			}]
 		}]
 	}, {
