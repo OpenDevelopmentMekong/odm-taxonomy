@@ -8,7 +8,7 @@ See https://wiki.opendevelopmentmekong.net/internal:updating_the_system_s_taxono
 
 # Testing
 
-Tests are found on ckanext/odm_dataset/tests and can be run with ```nosetest```
+Tests are found on /tests and can be run with ```nosetest```
 
 # Continuous deployment
 
