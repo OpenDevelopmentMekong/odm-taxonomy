@@ -1,0 +1,1924 @@
+{
+    "name": "Phân loại tiếng Anh",
+    "children": [
+        {
+            "name": "Nông nghiệp và thủy sản",
+            "children": [
+                {
+                    "name": "Nông nghiệp",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về nông nghiệp"
+                        },
+                        {
+                            "name": "Sản xuất nông nghiệp",
+                            "children": [
+                                {
+                                    "name": "Sản xuất chế biến nông sản ",
+                                    "children": [
+                                        {
+                                            "name": "Sản xuất nông nghiệp theo hợp đồng"
+                                        },
+                                        {
+                                            "name": "Tô nhượng đất kinh tế và trồng rừng"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Chăn nuôi gia súc gia cầm"
+                                },
+                                {
+                                    "name": "Nông nghiệp hữu cơ"
+                                },
+                                {
+                                    "name": "Trang trại quy mô nhỏ và vừa"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Các công nghệ và hệ thống quản lý nông nghiệp",
+                            "children": [
+                                {
+                                    "name": "Thiết bị và các dịch vụ kỹ thuật nông nghiệp"
+                                },
+                                {
+                                    "name": "Quản lý dịch hại"
+                                },
+                                {
+                                    "name": "Quản lý đất"
+                                },
+                                {
+                                    "name": "Quản lý nước và tưới tiêu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hàng hóa nông nghiệp: chế biến và các sản phẩm",
+                            "children": [
+                                {
+                                    "name": "Sản phẩm từ động vật",
+                                    "children": [
+                                        {
+                                            "name": "Sản xuất bơ sữa "
+                                        },
+                                        {
+                                            "name": "Thịt"
+                                        },
+                                        {
+                                            "name": "Da"
+                                        },
+                                        {
+                                            "name": "Gia cầm và trứng"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Cây trồng, sản phẩm và hàng hóa",
+                                    "children": [
+                                        {
+                                            "name": "Cây trồng nhiên liệu sinh học",
+                                            "children": [
+                                                {
+                                                    "name": "Sắn"
+                                                },
+                                                {
+                                                    "name": "Cây jatropha"
+                                                },
+                                                {
+                                                    "name": "Bã mía - được sử dụng như một nhiên liệu sinh học và trong sản xuất bột giấy và vật liệu xây dựng."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Điều"
+                                        },
+                                        {
+                                            "name": "Rau quả"
+                                        },
+                                        {
+                                            "name": "Ngô (bắp)"
+                                        },
+                                        {
+                                            "name": "Dầu cọ"
+                                        },
+                                        {
+                                            "name": "Lúa gạo"
+                                        },
+                                        {
+                                            "name": "Cao su"
+                                        },
+                                        {
+                                            "name": "Đậu nành"
+                                        },
+                                        {
+                                            "name": "Mía"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Đánh bắt, Nuôi trồng thủy sản ",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về thủy sản"
+                        },
+                        {
+                            "name": "Đánh bắt và nuôi trồng thủy hải sản",
+                            "children": [
+                                {
+                                    "name": "Đánh bắt thương mại và đánh bắt tự nhiên"
+                                },
+                                {
+                                    "name": "Nghề cá dựa vào cộng đồng"
+                                },
+                                {
+                                    "name": "Nuôi trồng thủy sản "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Viện trợ và phát triển",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về phát triển "
+                },
+                {
+                    "name": "Hỗ trợ phát triển đa phương (cấp quốc gia)",
+                    "children": [
+                        {
+                            "name": "Ngân hàng Phát triển châu Á (ADB)"
+                        },
+                        {
+                            "name": "Ngân hàng Phát triển Trung Quốc (CDB)"
+                        },
+                        {
+                            "name": "Tổ chức Nông lương Liên hợp quốc (FAO)"
+                        },
+                        {
+                            "name": "Quỹ Tiền tệ Quốc tế (IMF)"
+                        },
+                        {
+                            "name": "Liên hợp quốc"
+                        },
+                        {
+                            "name": "Ngân hàng Thế giới"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hỗ trợ phát triển song phương",
+                    "children": [
+                        {
+                            "name": "Các thành viên Ủy ban Hỗ trợ Phát triển (DAC)",
+                            "children": [
+                                {
+                                    "name": "Viện trợ của Úc"
+                                },
+                                {
+                                    "name": "Trợ giúp của Liên minh châu Âu"
+                                },
+                                {
+                                    "name": "Viện trợ của Đức"
+                                },
+                                {
+                                    "name": "Viện trợ của Nhật Bản"
+                                },
+                                {
+                                    "name": "Trợ giúp của Hàn Quốc"
+                                },
+                                {
+                                    "name": "Trợ giúp của Thụy Điển"
+                                },
+                                {
+                                    "name": "Viện trợ của Hoa Kỳ"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Các thành viên ngoài Ủy ban Hỗ trợ Phát triển",
+                            "children": [
+                                {
+                                    "name": "Viện trợ của Trung Quốc"
+                                },
+                                {
+                                    "name": "Viện trợ của Ấn Độ"
+                                },
+                                {
+                                    "name": "Viện trợ của Malaysia"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hỗ trợ phát triển phi lợi nhuận tư nhân "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Thảm họa và ứng phó khẩn cấp",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về ngăn ngừa thảm họa và ứng phó khẩn cấp "
+                },
+                {
+                    "name": "Các tổ chức phi chính phủ trong lĩnh vực phòng ngừa thảm họa và ứng phó khẩn cấp",
+                    "children": [
+                        {
+                            "name": "Hội chữ thập đỏ"
+                        },
+                        {
+                            "name": "Tài trợ cho thảm họa và ứng phó khẩn cấp"
+                        },
+                        {
+                            "name": "Các tổ chức phi chính phủ hoạt động trong lĩnh vực ứng phó thảm hoạ và các trường hợp khẩn cấp"
+                        }
+                    ]
+                },
+                {
+                    "name": "Thảm họa ",
+                    "children": [
+                        {
+                            "name": "Hạn hán"
+                        },
+                        {
+                            "name": "Hỏa hoạn"
+                        },
+                        {
+                            "name": "Lũ lụt"
+                        },
+                        {
+                            "name": "Bão"
+                        },
+                        {
+                            "name": "Động đất"
+                        },
+                        {
+                            "name": "Sóng thần"
+                        },
+                        {
+                            "name": "Dịch bệnh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kinh tế và thương mại ",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về kinh tế",
+                    "children": [
+                        {
+                            "name": "Cơ cấu doanh nghiệp và đăng ký pháp nhân"
+                        }
+                    ]
+                },
+                {
+                    "name": "Các dịch vụ ngân hàng và tài chính",
+                    "children": [
+                        {
+                            "name": "Chính sách và quy định về dịch vụ Ngân hàng và tài chính "
+                        },
+                        {
+                            "name": "Các ngân hàng chủ đạo"
+                        },
+                        {
+                            "name": "Tài chính vi mô"
+                        }
+                    ]
+                },
+                {
+                    "name": "Các hiệp hội doanh nghiệp",
+                    "children": [
+                        {
+                            "name": "Phòng Thương mại Mỹ "
+                        },
+                        {
+                            "name": "Phòng Thương mại Úc"
+                        },
+                        {
+                            "name": "Phòng thương mại địa phương"
+                        },
+                        {
+                            "name": "Hiệp hội doanh nghiệp Trung Quốc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Đầu tư",
+                    "children": [
+                        {
+                            "name": "Chính sách và các qui định về đầu tư ",
+                            "children": [
+                                {
+                                    "name": "Các nhà đầu tư trong nước"
+                                },
+                                {
+                                    "name": "Các nhà đầu tư nước ngoài "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Doanh nghiệp vừa và nhỏ (SME)",
+                    "children": [
+                        {
+                            "name": "Chính sách và quy định về doanh nghiệp nhỏ và vừa"
+                        },
+                        {
+                            "name": "Thương mại",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quy định thương mại"
+                                },
+                                {
+                                    "name": "Nhập khẩu"
+                                },
+                                {
+                                    "name": "Xuất khẩu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sở giao dịch chứng khoán (thị trường chứng khoán)",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quy định về thị trường chứng khoán"
+                                },
+                                {
+                                    "name": "Thị trường chứng khoán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Năng lượng",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về năng lượng"
+                },
+                {
+                    "name": "Sản lượng điện ",
+                    "children": [
+                        {
+                            "name": "Sản xuất năng lượng không tái tạo"
+                        },
+                        {
+                            "name": "Đập thủy điện "
+                        },
+                        {
+                            "name": "Sản xuất năng lượng tái tạo"
+                        }
+                    ]
+                },
+                {
+                    "name": "Năng lượng cho giao thông vận tải"
+                },
+                {
+                    "name": "Nhiên liệu sử dụng cho việc đun nấu "
+                }
+            ]
+        },
+        {
+            "name": "Môi trường và tài nguyên thiên nhiên",
+            "children": [
+                {
+                    "name": "Các dịch vụ sinh thái"
+                },
+                {
+                    "name": "Đa dạng sinh học",
+                    "children": [
+                        {
+                            "name": "Động vật"
+                        },
+                        {
+                            "name": "Thực vật "
+                        },
+                        {
+                            "name": "Hệ sinh thái "
+                        }
+                    ]
+                },
+                {
+                    "name": "Chính sách và quản lý nhà nước về môi trường và tài nguyên thiên nhiên",
+                    "children": [
+                        {
+                            "name": "Tổng quan về khung chính sách và luật pháp",
+                            "children": [
+                                {
+                                    "name": "Các bộ ngành liên quan"
+                                },
+                                {
+                                    "name": "Các loại hình khu bảo tồn"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Đánh giá tác động môi trường"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biến đổi khí hậu",
+                    "children": [
+                        {
+                            "name": "Thích ứng"
+                        },
+                        {
+                            "name": "Ngăn ngừa ",
+                            "children": [
+                                {
+                                    "name": "Cơ chế phát triển sạch"
+                                },
+                                {
+                                    "name": "Hành động ứng phó quốc gia"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bảo vệ môi trường và đa dạng sinh học"
+                },
+                {
+                    "name": "Ô nhiễm và chất thải",
+                    "children": [
+                        {
+                            "name": "Ô nhiễm không khí"
+                        },
+                        {
+                            "name": "Ô nhiễm nước"
+                        },
+                        {
+                            "name": "Chất thải rắn"
+                        },
+                        {
+                            "name": "Rác điện tử"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rừng và ngành lâm nghiệp",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về rừng "
+                        },
+                        {
+                            "name": "Độ che phủ rừng",
+                            "children": [
+                                {
+                                    "name": "Báo cáo độ che phủ rừng"
+                                },
+                                {
+                                    "name": "Động cơ phá rừng"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Phân loại rừng",
+                            "children": [
+                                {
+                                    "name": "Thuật ngữ và định nghĩa",
+                                    "children": [
+                                        {
+                                            "name": "Rừng rậm"
+                                        },
+                                        {
+                                            "name": "Rừng tái sinh"
+                                        },
+                                        {
+                                            "name": "Rừng thứ sinh/hỗn giao"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lâm sản",
+                            "children": [
+                                {
+                                    "name": "Ngành công nghiệp rừng",
+                                    "children": [
+                                        {
+                                            "name": "Khai thác gỗ và gỗ"
+                                        },
+                                        {
+                                            "name": "Trồng cây",
+                                            "children": [
+                                                {
+                                                    "name": "Gỗ "
+                                                },
+                                                {
+                                                    "name": "Giấy và bột giấy",
+                                                    "children": [
+                                                        {
+                                                            "name": "Cây keo"
+                                                        },
+                                                        {
+                                                            "name": "Bạch đàn"
+                                                        },
+                                                        {
+                                                            "name": "Thông"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Kinh doanh và tài chính lâm nghiệp "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Lâm sản ngoài gỗ"
+                                },
+                                {
+                                    "name": "Gỗ rừng trồng"
+                                },
+                                {
+                                    "name": "Bảo vệ rừng",
+                                    "children": [
+                                        {
+                                            "name": "Hỗ trợ bảo vệ rừng",
+                                            "children": [
+                                                {
+                                                    "name": "Tài trợ bảo vệ rừng "
+                                                },
+                                                {
+                                                    "name": "Các tổ chức phi chính phủ bảo vệ rừng"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Các khu bảo tồn",
+                                            "children": [
+                                                {
+                                                    "name": "Rừng bảo tồn"
+                                                },
+                                                {
+                                                    "name": "Rừng cộng đồng"
+                                                },
+                                                {
+                                                    "name": "Sử dụng rừng bền vững "
+                                                },
+                                                {
+                                                    "name": "Vườn quốc gia và các khu hoang dã"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tài nguyên nước",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về nước",
+                            "children": [
+                                {
+                                    "name": "Quyền về nước"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nước ngầm"
+                        },
+                        {
+                            "name": "Sông và hồ"
+                        },
+                        {
+                            "name": "Biển và vùng ven bờ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ngành công nghiệp khai thác",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước đối với ngành công nghiệp khai thác",
+                    "children": [
+                        {
+                            "name": "Giấy phép và phí ngành công nghiệp khai thác "
+                        },
+                        {
+                            "name": "Doanh thu từ ngành công nghiệp khai thác "
+                        }
+                    ]
+                },
+                {
+                    "name": "Khai khoáng",
+                    "children": [
+                        {
+                            "name": "Khai thác thủ công "
+                        },
+                        {
+                            "name": "Khai thác đá quý"
+                        },
+                        {
+                            "name": "Khai khoáng quy mô công nghiệp"
+                        },
+                        {
+                            "name": "Khai thác quặng"
+                        }
+                    ]
+                },
+                {
+                    "name": "Khoáng sản và các sản phẩm khai khoáng",
+                    "children": [
+                        {
+                            "name": "Than "
+                        },
+                        {
+                            "name": "Đồng"
+                        },
+                        {
+                            "name": "Đá quý "
+                        },
+                        {
+                            "name": "Vàng"
+                        },
+                        {
+                            "name": "Cát sỏi và đá vôi"
+                        },
+                        {
+                            "name": "Sắt và thép"
+                        },
+                        {
+                            "name": "Chất uranium"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tài nguyên dầu khí",
+                    "children": [
+                        {
+                            "name": "Thăm dò, khai thác dầu và khí đốt gần bờ"
+                        },
+                        {
+                            "name": "Thăm dò, khai thác dầu và khí đốt xa bờ"
+                        },
+                        {
+                            "name": "Lọc dầu"
+                        },
+                        {
+                            "name": "Vận chuyển dầu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chính phủ ",
+            "children": [
+                {
+                    "name": "Hệ thống chính quyền"
+                },
+                {
+                    "name": "Chính quyền Trung ương ",
+                    "children": [
+                        {
+                            "name": "Người đứng đầu Nhà nước "
+                        },
+                        {
+                            "name": "Hành pháp"
+                        },
+                        {
+                            "name": "Quốc hội"
+                        },
+                        {
+                            "name": "Bộ và các ban ngành khác"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chính quyền cấp tỉnh và địa phương ",
+                    "children": [
+                        {
+                            "name": "Quản lý nhà nước"
+                        },
+                        {
+                            "name": "Phân cấp và phân quyền"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bầu cử"
+                },
+                {
+                    "name": "Ngân sách"
+                },
+                {
+                    "name": "Hệ thống thuế"
+                },
+                {
+                    "name": "Dịch vụ của chính phủ"
+                },
+                {
+                    "name": "Mua sắm"
+                },
+                {
+                    "name": "Chống tham nhũng"
+                },
+                {
+                    "name": "Quan hệ quốc tế"
+                }
+            ]
+        },
+        {
+            "name": "Công nghiệp",
+            "children": [
+                {
+                    "name": "Xây dựng ",
+                    "children": [
+                        {
+                            "name": "Xây dựng chính sách và qui định"
+                        },
+                        {
+                            "name": "Các công ty và dự án chủ đạo "
+                        }
+                    ]
+                },
+                {
+                    "name": "Nghề thủ công",
+                    "children": [
+                        {
+                            "name": "Chính sách và qui định ngành công nghiệp thủ công mỹ nghệ. "
+                        },
+                        {
+                            "name": "Phát triển và hỗ trợ ngành thủ công mỹ nghệ",
+                            "children": [
+                                {
+                                    "name": "Tài trợ ngành thủ công mỹ nghệ"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về thủ công mỹ nghệ "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ngành chế tạo",
+                    "children": [
+                        {
+                            "name": "Qui định và chính sách về ngành chế tạo"
+                        },
+                        {
+                            "name": "Chế biến nông sản",
+                            "children": [
+                                {
+                                    "name": "Thức ăn chăn nuôi"
+                                },
+                                {
+                                    "name": "Nhiên liệu sinh học"
+                                },
+                                {
+                                    "name": "Phân bón"
+                                },
+                                {
+                                    "name": "Cao su"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ô tô"
+                        },
+                        {
+                            "name": "Chế biến thực phẩm",
+                            "children": [
+                                {
+                                    "name": "Đồ uống"
+                                },
+                                {
+                                    "name": "Cá và hải sản"
+                                },
+                                {
+                                    "name": "Thịt và các sản phẩm từ thịt"
+                                },
+                                {
+                                    "name": "Sữa và các sản phẩm từ sữa"
+                                },
+                                {
+                                    "name": "Thực phẩm chế biến"
+                                },
+                                {
+                                    "name": "Muối"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nội thất",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quy định đối với ngành nội thất"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dệt may",
+                            "children": [
+                                {
+                                    "name": "Quần áo"
+                                },
+                                {
+                                    "name": "Giầy "
+                                },
+                                {
+                                    "name": "Bông và sợi"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chế biến khoáng sản và các sản phẩm.",
+                            "children": [
+                                {
+                                    "name": "Gạch ngói"
+                                },
+                                {
+                                    "name": "Xi-măng"
+                                },
+                                {
+                                    "name": "Dầu"
+                                },
+                                {
+                                    "name": "Thép"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bất động sản"
+                        },
+                        {
+                            "name": "Du lịch"
+                        },
+                        {
+                            "name": "Giải trí"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cơ sở hạ tầng",
+            "children": [
+                {
+                    "name": "Truyền thông",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về truyền thông"
+                        },
+                        {
+                            "name": "Cơ sở hạ tầng truyền thông",
+                            "children": [
+                                {
+                                    "name": "Internet"
+                                },
+                                {
+                                    "name": "Đài phát thanh"
+                                },
+                                {
+                                    "name": "Điện thoại",
+                                    "children": [
+                                        {
+                                            "name": "Điện thoại cố định"
+                                        },
+                                        {
+                                            "name": "Điện thoại di động"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Truyền hình"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Phát triển và tài trợ cho truyền thông"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cơ sở hạ tầng điện",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về điện"
+                        },
+                        {
+                            "name": "Trang thiết bị sản xuất và phân phối điện"
+                        },
+                        {
+                            "name": "Phát triển và tài trợ cho ngành điện"
+                        }
+                    ]
+                },
+                {
+                    "name": "Thị trường",
+                    "children": [
+                        {
+                            "name": "Qui định và chính sách về thị trường "
+                        },
+                        {
+                            "name": "Nhà cung cấp",
+                            "children": [
+                                {
+                                    "name": "Quyền nhà cung cấp"
+                                },
+                                {
+                                    "name": "Hiệp hội các nhà cung cấp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vận chuyển và giao thông vận tải",
+                    "children": [
+                        {
+                            "name": "Các chính sách và quản lý nhà nước về giao thông và vận chuyển"
+                        },
+                        {
+                            "name": "Cơ sở hạ tầng về giao thông liên lạc ",
+                            "children": [
+                                {
+                                    "name": "Sân bay và hàng không"
+                                },
+                                {
+                                    "name": "Cầu đường"
+                                },
+                                {
+                                    "name": "Đường sắt"
+                                },
+                                {
+                                    "name": "Thủy lợi và cảng"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Phát triển và tài trợ cho ngành giao thông vận tải"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nước sạch và vệ sinh",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về nước và vệ sinh môi trường"
+                        },
+                        {
+                            "name": "Kiểm tra chất lượng nước"
+                        },
+                        {
+                            "name": "Hỗ trợ phát triển nguồn nước và vệ sinh môi trường",
+                            "children": [
+                                {
+                                    "name": "Tài trợ nước sạch và vệ sinh "
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ làm về nước sạch và VSMT."
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cở sở hạ tầng và trang thiết bị về nước và vệ sinh",
+                            "children": [
+                                {
+                                    "name": "Hạ tầng cơ sở nước và vệ sinh nông thôn",
+                                    "children": [
+                                        {
+                                            "name": "Cấp nước nông thôn"
+                                        },
+                                        {
+                                            "name": "Vệ sinh nông thôn"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Hạ tầng cơ sở nước và vệ sinh thành thị ",
+                                    "children": [
+                                        {
+                                            "name": "Hệ thống cấp nước đô thị"
+                                        },
+                                        {
+                                            "name": "Hạ tầng cơ sở về vệ sinh đô thị"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lao động",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về lao động",
+                    "children": [
+                        {
+                            "name": "Lương tối thiểu"
+                        },
+                        {
+                            "name": "An toàn và bảo hộ lao động"
+                        },
+                        {
+                            "name": "Quyền lợi người lao động"
+                        },
+                        {
+                            "name": "Bảo vệ người lao động ở hải ngoại"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lao động chính quy"
+                },
+                {
+                    "name": "Lao động không chính quy"
+                },
+                {
+                    "name": "Tuyển dụng lao động xuất khẩu"
+                },
+                {
+                    "name": "Lao động bất hợp pháp",
+                    "children": [
+                        {
+                            "name": "Buôn bán người"
+                        },
+                        {
+                            "name": "Lao động trẻ em"
+                        },
+                        {
+                            "name": "Lao động mại dâm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Liên đoàn lao động"
+                },
+                {
+                    "name": "Giải quyết tranh chấp về lao động"
+                },
+                {
+                    "name": "Hỗ trợ phát triển về quyền lợi người lao động và các liên đoàn lao động",
+                    "children": [
+                        {
+                            "name": "Tài trợ về quyền lợi người lao động và các liên đoàn lao động"
+                        },
+                        {
+                            "name": "Các tổ chức phi chính phủ về quyền lao động và các liên đoàn lao động"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Đất",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về đất đai"
+                },
+                {
+                    "name": "Phân loại đất",
+                    "children": [
+                        {
+                            "name": "Đất công do nhà nước quản lý"
+                        },
+                        {
+                            "name": "Đất tư do Nhà nước quản lý"
+                        },
+                        {
+                            "name": "Đất tư nhân"
+                        }
+                    ]
+                },
+                {
+                    "name": "Quyền sử dụng đất và việc cấp giấy chứng nhận",
+                    "children": [
+                        {
+                            "name": "Hỗ trợ phát triển quyền sở hữu và cấp phép chứng nhận đất",
+                            "children": [
+                                {
+                                    "name": "Tài trợ quyền sử dụng đất và việc cấp giấy chứng nhận "
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về quyền sử dụng đất và cấp giấy chứng nhận "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chuyển nhượng đất",
+                    "children": [
+                        {
+                            "name": "Mua bán đất đai"
+                        },
+                        {
+                            "name": "Chiếm đoạt "
+                        }
+                    ]
+                },
+                {
+                    "name": "Thuê đất công",
+                    "children": [
+                        {
+                            "name": "Tô nhượng đất đai"
+                        },
+                        {
+                            "name": "Đặc khu kinh tế"
+                        }
+                    ]
+                },
+                {
+                    "name": "Đất công"
+                },
+                {
+                    "name": "Tô nhượng đất xã hội "
+                },
+                {
+                    "name": "Mìn, các vật liệu nổ và việc tháo dỡ"
+                }
+            ]
+        },
+        {
+            "name": "Luật pháp và tòa án",
+            "children": [
+                {
+                    "name": "Hiến pháp và các quyền"
+                },
+                {
+                    "name": "Quá trình xây dựng luật"
+                },
+                {
+                    "name": "Khung luật pháp",
+                    "children": [
+                        {
+                            "name": "Luật và hiệp ước quốc tế"
+                        },
+                        {
+                            "name": "Luật và các quy định"
+                        },
+                        {
+                            "name": "Quyền của bị cáo"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hệ thống pháp luật và hệ thống tư pháp",
+                    "children": [
+                        {
+                            "name": "Hệ thống tư pháp và tòa án",
+                            "children": [
+                                {
+                                    "name": "Quy định pháp luật về tòa án"
+                                },
+                                {
+                                    "name": "Tư pháp và cơ cấu tòa án "
+                                },
+                                {
+                                    "name": "Giám sát tòa án"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Khởi kiện hình sự"
+                        },
+                        {
+                            "name": "Khởi kiện dân sự và thương mại"
+                        },
+                        {
+                            "name": "Giải quyết tranh chấp thay thế"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hỗ trợ pháp lý",
+                    "children": [
+                        {
+                            "name": "Chính sách và quy định về hỗ trợ pháp lý"
+                        },
+                        {
+                            "name": "Các cơ sở trợ giúp pháp lý",
+                            "children": [
+                                {
+                                    "name": "Liên đoàn luật sư và các dịch vụ hỗ trợ pháp lý"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về hỗ trợ pháp lý"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cải cách pháp lý và tư pháp",
+                    "children": [
+                        {
+                            "name": "Phát triển và hỗ trợ cải cách tòa án",
+                            "children": [
+                                {
+                                    "name": "Tài trợ cải cách luật pháp và tòa án"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về pháp lý và cải cách tòa án"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chuyên môn và dịch vụ về pháp lý",
+                    "children": [
+                        {
+                            "name": "Quy định về hành nghề luật",
+                            "children": [
+                                {
+                                    "name": "Quy định về thẩm phán"
+                                },
+                                {
+                                    "name": "Quy định về luật sư"
+                                },
+                                {
+                                    "name": "Quy định về nhân viên tòa án"
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Hiệp hội luật gia"
+                        },
+                        {
+                            "name": "Dịch vụ công và hành chính về luật "
+                        },
+                        {
+                            "name": "Đào tạo chuyên ngành luật",
+                            "children": [
+                                {
+                                    "name": "Giáo dục ?? (judge)"
+                                },
+                                {
+                                    "name": "Lawyer education"
+                                },
+                                {
+                                    "name": "Court clerk education"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Giáo dục luật pháp cho cộng đồng"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tội phạm và thực thi pháp luật ",
+                    "children": [
+                        {
+                            "name": "Tội phạm"
+                        },
+                        {
+                            "name": "Vi phạm giao thông"
+                        },
+                        {
+                            "name": "Cảnh sát"
+                        },
+                        {
+                            "name": "Nhà tù",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quản lý trại giam "
+                                },
+                                {
+                                    "name": "Quyền phạm nhân "
+                                },
+                                {
+                                    "name": "Prison monitoring"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dân số và thống kê",
+            "children": [
+                {
+                    "name": "Dân số ",
+                    "children": [
+                        {
+                            "name": "Nhân khẩu học"
+                        },
+                        {
+                            "name": "Di cư",
+                            "children": [
+                                {
+                                    "name": "Nhập cư"
+                                },
+                                {
+                                    "name": "Di dân"
+                                },
+                                {
+                                    "name": "Di cư lao động không chính thức",
+                                    "children": [
+                                        {
+                                            "name": "Lao động nước ngoài"
+                                        },
+                                        {
+                                            "name": "Lao động ra nước ngoài"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thống kê"
+                },
+                {
+                    "name": "Thông tin về tỉnh"
+                }
+            ]
+        },
+        {
+            "name": "Phát triển xã hội ",
+            "children": [
+                {
+                    "name": "Nghệ thuật",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về nghệ thuật"
+                        },
+                        {
+                            "name": "Giáo dục nghệ thuật"
+                        },
+                        {
+                            "name": "Hỗ trợ về nghệ thuật",
+                            "children": [
+                                {
+                                    "name": "Tài trợ cho nghệ thuật"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về nghệ thuật"
+                                },
+                                {
+                                    "name": "Các hiệp hội nghệ thuật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Người cao tuổi",
+                    "children": [
+                        {
+                            "name": "Các chính sách và quản lý nhà nước về người cao tuổi"
+                        },
+                        {
+                            "name": "Phát triển và hỗ trợ người cao tuổi ",
+                            "children": [
+                                {
+                                    "name": "Tài trợ hỗ trợ người cao tuổi"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về người cao tuổi"
+                                },
+                                {
+                                    "name": "Seniors associations"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Xã hội dân sự",
+                    "children": [
+                        {
+                            "name": "Chính sách và quy định về xã hội dân sự"
+                        },
+                        {
+                            "name": "Các tổ chức phi chính phủ "
+                        },
+                        {
+                            "name": "Hiệp hội và các nhóm có thành viên khác"
+                        },
+                        {
+                            "name": "Liên minh và hợp tác xã hội dân sự"
+                        }
+                    ]
+                },
+                {
+                    "name": "Người khuyết tật",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản ly nhà nước đối với người khuyết tật",
+                            "children": [
+                                {
+                                    "name": "Quyền của người khuyết tật"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hỗ trợ phát triển dành cho người khuyết tật",
+                            "children": [
+                                {
+                                    "name": "Tài trợ dành cho người khuyết tật"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ hỗ trợ người tàn tật "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Giáo dục và đào tạo",
+                    "children": [
+                        {
+                            "name": "Chinh sách và quản lý nhà nước về giáo dục"
+                        },
+                        {
+                            "name": "Mẫu giáo"
+                        },
+                        {
+                            "name": "Giáo dục tiểu học và trung học"
+                        },
+                        {
+                            "name": "Giáo dục dạy nghề"
+                        },
+                        {
+                            "name": "Giáo dục đại học và sau đại học ",
+                            "children": [
+                                {
+                                    "name": "Trường đại học"
+                                },
+                                {
+                                    "name": "Chương trình sau đại học"
+                                },
+                                {
+                                    "name": "Du học"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Biết chữ ở người lớn"
+                        },
+                        {
+                            "name": "Tài trợ và phát triển về giáo dục",
+                            "children": [
+                                {
+                                    "name": "Tài trợ cho giáo dục"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về giáo dục"
+                                },
+                                {
+                                    "name": "Education associations"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Người dân tộc và thiểu số",
+                    "children": [
+                        {
+                            "name": "Dữ liệu về người dân tộc và thiểu số"
+                        },
+                        {
+                            "name": "Chính sách và quyền lợi người dân tộc và thiểu số"
+                        },
+                        {
+                            "name": "Tài trợ và phát triển dành cho người dân tộc và thiểu số",
+                            "children": [
+                                {
+                                    "name": "Tài trợ phát triển dành cho người dân tộc và thiểu số"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về người dân tộc và thiểu số"
+                                },
+                                {
+                                    "name": "Các hiệp hội về người dân tộc và thiểu số"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gia đình, trẻ em và thanh niên",
+                    "children": [
+                        {
+                            "name": "Chính sách và quản lý nhà nước về gia đình, trẻ em và thanh niên ",
+                            "children": [
+                                {
+                                    "name": "Quyền trẻ em"
+                                },
+                                {
+                                    "name": "Lao động trẻ em"
+                                },
+                                {
+                                    "name": "Tiếp cận giáo dục "
+                                },
+                                {
+                                    "name": "Bạo hành gia đình "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kết hôn và ly hôn"
+                        },
+                        {
+                            "name": "Trẻ mồ côi và trẻ cơ nhỡ"
+                        },
+                        {
+                            "name": "Tài trợ và phát triển về gia đình, trẻ em và thanh niên",
+                            "children": [
+                                {
+                                    "name": "Tài trợ cho gia đình, trẻ em và thanh niên"
+                                },
+                                {
+                                    "name": "Các tổ chức phi chính phủ về gia đình, trẻ em và thanh niên"
+                                },
+                                {
+                                    "name": "Các tổ chức, đoàn thanh niên"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Giới",
+                    "children": [
+                        {
+                            "name": "Đồng tính và chuyển giới (LGBTQ)",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quyền của nhóm LGBTQ"
+                                },
+                                {
+                                    "name": "Phát triển và trợ giúp cộng đồng LGBTQ",
+                                    "children": [
+                                        {
+                                            "name": "Tài trợ LGBTQ"
+                                        },
+                                        {
+                                            "name": "Các tổ chức phi chính phủ về LGBTQ"
+                                        },
+                                        {
+                                            "name": "Các hiệp hội LGBTQ"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Phụ nữ",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quản lý nhà nước về phụ nữ",
+                                    "children": [
+                                        {
+                                            "name": "Các quyền phụ nữ "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Phụ nữ tham gia quản lý nhà nước và hệ thống chính trị"
+                                },
+                                {
+                                    "name": "Phụ nữ trong phát triển"
+                                },
+                                {
+                                    "name": "Phụ nữ trong gia đình"
+                                },
+                                {
+                                    "name": "Development and assistance for women",
+                                    "children": [
+                                        {
+                                            "name": "Tài trợ phát triển cho phụ nữ"
+                                        },
+                                        {
+                                            "name": "Các tổ chức phi chính phủ về phụ nữ"
+                                        },
+                                        {
+                                            "name": "Women's associations"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Quyền con người",
+                            "children": [
+                                {
+                                    "name": "Quyền dân sự và chính trị",
+                                    "children": [
+                                        {
+                                            "name": "Tự do ngôn luận"
+                                        },
+                                        {
+                                            "name": "Tự do lập hội"
+                                        },
+                                        {
+                                            "name": "Tiếp cận thông tin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Các quyền về kinh tế, xã hội và văn hóa",
+                                    "children": [
+                                        {
+                                            "name": "Đồng thuận dựa trên nguyên tắc tự nguyện, trước và được thông tin đầy đủ (FPIC)"
+                                        },
+                                        {
+                                            "name": "Land and housing rights and evictions"
+                                        },
+                                        {
+                                            "name": "Tự do tôn giáo",
+                                            "children": [
+                                                {
+                                                    "name": "Buddhist clergy rights"
+                                                },
+                                                {
+                                                    "name": "Các tôn giáo thiểu số"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Livelihood rights"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Development and assistance for human rights",
+                                    "children": [
+                                        {
+                                            "name": "Human rights funding"
+                                        },
+                                        {
+                                            "name": "Các tổ chức phi chính phủ về quyền con người"
+                                        },
+                                        {
+                                            "name": "Human rights associations"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Người nghèo",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quy định về nghèo đói",
+                                    "children": [
+                                        {
+                                            "name": "Giảm nghèo"
+                                        },
+                                        {
+                                            "name": "An ninh lương thực"
+                                        },
+                                        {
+                                            "name": "Tiếp cận giáo dục và chăm sóc sức khỏe"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Trợ giúp phát triển về giảm nghèo và an ninh lương thực",
+                                    "children": [
+                                        {
+                                            "name": "Poverty reduction and food securities assistance funding"
+                                        },
+                                        {
+                                            "name": "Poverty reduction and food securities assistance NGOs"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sức khỏe cộng đồng",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quản lý nhà nước về chăm sóc sức khỏe",
+                                    "children": [
+                                        {
+                                            "name": "Quyền của bệnh nhân"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bệnh viện và cơ sở y tế"
+                                },
+                                {
+                                    "name": "Sức khỏe tinh thần và dịch vụ xã hội"
+                                },
+                                {
+                                    "name": "Chuyên gia y tế",
+                                    "children": [
+                                        {
+                                            "name": "Đào tạo và tập huấn về y tế"
+                                        },
+                                        {
+                                            "name": "Chứng chỉ y tế và quản lý"
+                                        },
+                                        {
+                                            "name": "Medical professional associations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ngành dược"
+                                },
+                                {
+                                    "name": "Các ưu tiên về sức khỏe",
+                                    "children": [
+                                        {
+                                            "name": "Cúm gia cầm (cúm gà)"
+                                        },
+                                        {
+                                            "name": "HIV/AIDS"
+                                        },
+                                        {
+                                            "name": "Sốt rét"
+                                        },
+                                        {
+                                            "name": "Sức khỏe bà mẹ và trẻ em"
+                                        },
+                                        {
+                                            "name": "Bệnh lao"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Hỗ trợ phát triển về chăm sóc sức khỏe",
+                                    "children": [
+                                        {
+                                            "name": "Tài trợ đối với y tế"
+                                        },
+                                        {
+                                            "name": "Các tổ chức phi chính phủ về y tế"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bảo hiểm xã hội và cựu chiến binh",
+                            "children": [
+                                {
+                                    "name": "Chính sách và quản lý nhà nước về BHXH và cựu chiến binh"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Thể thao",
+                            "children": [
+                                {
+                                    "name": "Thể thao: chính sách và quản lý nhà nước"
+                                },
+                                {
+                                    "name": "Đào tạo và tập huấn về thể thao"
+                                },
+                                {
+                                    "name": "Phát triển và hỗ trợ đối với thể thao",
+                                    "children": [
+                                        {
+                                            "name": "Tài trợ cho thể thao"
+                                        },
+                                        {
+                                            "name": "Các tổ chức phi chính phủ hỗ trợ và phát triển thể thao"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Nhà thi đấu thể thao"
+                                },
+                                {
+                                    "name": "Các giải thi đấu thể thao"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Quản lý nhà nước về đô thị và phát triển đô thị",
+            "children": [
+                {
+                    "name": "Xu hướng phát triển đô thị"
+                },
+                {
+                    "name": "Chính sách và quản lý nhà nước về đô thị"
+                },
+                {
+                    "name": "Dữ liệu về thành phố"
+                }
+            ]
+        },
+        {
+            "name": "Khoa học và công nghệ",
+            "children": [
+                {
+                    "name": "Chính sách và quản lý nhà nước về khoa học và công nghệ"
+                },
+                {
+                    "name": "Nghiên cứu và phát triển khoa học công nghệ"
+                },
+                {
+                    "name": "Công nghệ",
+                    "children": [
+                        {
+                            "name": "Năng lượng nguyên tử và công nghệ hạt nhân"
+                        },
+                        {
+                            "name": "Khoa học về vật liệu"
+                        },
+                        {
+                            "name": "Công nghệ mở"
+                        },
+                        {
+                            "name": "Công nghệ không gian"
+                        }
+                    ]
+                },
+                {
+                    "name": "Giáo dục và thúc đẩy khoa học và công nghệ"
+                }
+            ]
+        },
+        {
+          "name": "Sustainable Development Goals",
+          "children":
+          [
+            {
+              "name": "SDG1 No Poverty"
+            },
+            {
+              "name": "SDG2 Zero Hunger"
+            },
+            {
+              "name": "SDG3 Good Health and Well-Being"
+            },
+            {
+              "name": "SDG4 Equality Education"
+            },
+            {
+              "name": "SDG5 Gender Equality"
+            },
+            {
+              "name": "SDG6 Clean Water and Sanitation"
+            },
+            {
+              "name": "SDG7 Affordable and Clean Energy"
+            },
+            {
+              "name": "SDG8 Decent Work and Economic Growth"
+            },
+            {
+              "name": "SDG9 Industry, Innovation and Infrastructure"
+            },
+            {
+              "name": "SDG10 Reduced Equality"
+            },
+            {
+              "name": "SDG11 Sustainable Cities and Communities"
+            },
+            {
+              "name": "SDG12 Responsible Consumption and Production"
+            },
+            {
+              "name": "SDG13 Climate Change"
+            },
+            {
+              "name": "SDG14 Life Below Water"
+            },
+            {
+              "name": "SDG15 Life on Land"
+            },
+            {
+              "name": "SDG16 Peace, Justice and Strong Institutions"
+            },
+            {
+              "name": "SDG17 Partnerships for the Goals"
+            }
+          ]
+        }
+    ]
+}
