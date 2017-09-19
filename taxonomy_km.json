@@ -1838,6 +1838,63 @@
                     "name": "ការអប់រំ និងការផ្សព្វផ្សាយ វិទ្យាសាស្រ្ត និងបច្ចេកវិទ្យា"
                 }
             ]
+        },
+        {
+          "name": "Sustainable Development Goals",
+          "children":
+          [
+            {
+              "name": "SDG1 No Poverty"
+            },
+            {
+              "name": "SDG2 Zero Hunger"
+            },
+            {
+              "name": "SDG3 Good Health and Well-Being"
+            },
+            {
+              "name": "SDG4 Equality Education"
+            },
+            {
+              "name": "SDG5 Gender Equality"
+            },
+            {
+              "name": "SDG6 Clean Water and Sanitation"
+            },
+            {
+              "name": "SDG7 Affordable and Clean Energy"
+            },
+            {
+              "name": "SDG8 Decent Work and Economic Growth"
+            },
+            {
+              "name": "SDG9 Industry, Innovation and Infrastructure"
+            },
+            {
+              "name": "SDG10 Reduced Equality"
+            },
+            {
+              "name": "SDG11 Sustainable Cities and Communities"
+            },
+            {
+              "name": "SDG12 Responsible Consumption and Production"
+            },
+            {
+              "name": "SDG13 Climate Change"
+            },
+            {
+              "name": "SDG14 Life Below Water"
+            },
+            {
+              "name": "SDG15 Life on Land"
+            },
+            {
+              "name": "SDG16 Peace, Justice and Strong Institutions"
+            },
+            {
+              "name": "SDG17 Partnerships for the Goals"
+            }
+          ]
         }
     ]
 }
