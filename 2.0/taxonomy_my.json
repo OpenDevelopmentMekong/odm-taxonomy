@@ -11,7 +11,7 @@
                             "name": "စိုက်ပျိုးရေးမူဝါဒ နှင့် အုပ်ချုပ်ရေး"
                         },
                         {
-                            "name": "စိုက်ပျိုးထုတ်လုပ်မှု",
+                            "name": "စိုက်ပျိုးရေးဆိုင်ရာထုတ်လုပ်မှု",
                             "children": [
                                 {
                                     "name": "စိုက်ပျိုးရေး စက်မှုကုန်ထုတ်လုပ်မှု",
@@ -150,7 +150,7 @@
                     "name": "ဖွံ့ဖြိုးတိုးတက်ရေး မူဝါဒနှင့် အုပ်ချုပ်ရေး"
                 },
                 {
-                    "name": "ဘက်ပေါင်းစုံဖွံ့ဖြိုးတိုးတက်ရေး အကူအညီ",
+                    "name": "နိုင်ငံအများမှဖွံ့ဖြိုးတိုးတက်ရေး အကူအညီ",
                     "children": [
                         {
                             "name": "အာရှဖွံ့ဖြိုးတိုးတက်ရေးဘဏ် (ADB)"
@@ -226,10 +226,10 @@
             "name": "သဘာဝဘေးအန္တရာယ်နှင့် အရေးပေါ်တုံ့ပြန်မှု",
             "children": [
                 {
-                    "name": "သဘာဝဘေးအန္တရာယ်အတွက်ကြိုတင်ပြင်ဆင်ခြင်းနှင့် အရေးပေါ်တုံ့ပြန်မှု မူဝါဒနှင့် အုပ်ချုပ်ရေး"
+                    "name": "သဘာဝဘေးအန္တရာယ်အတွက်ကြိုတင်ပြင်ဆင်ခြင်းနှင့် အရေးပေါ်တုံ့ပြန်မှု မူဝါဒနှင့် စီမံခန့်ခွဲမှု"
                 },
                 {
-                    "name": "အစိုးရမဟုတ်သူများ၏ ပြင်ဆင်မှုနှင့် တုံ့ပြန်မှုများ",
+                    "name": "သဘာဝဘေးအန္တရာယ်ကြိုတင်ပြင်ဆင်မှုနှင့် အရေးပေါ်တုံ့ပြန်မှု ကိုအကောင်အထည်ဖော်နေသော အစိုးရမဟုတ်သည့် အဖွဲ့အစည်းများ",
                     "children": [
                         {
                             "name": "ကြက်ခြေနီအဖွဲ့"
@@ -482,7 +482,7 @@
                                     "name": "သစ်တောဖုံးလွှမ်းမှုအစီရင်ခံခြင်း"
                                 },
                                 {
-                                    "name": "သစ်တောပြုန်းတီးမှုဖြစ်စေသည့် အကြောင်းရင်းများ"
+                                    "name": "Deforestation drivers"
                                 }
                             ]
                         },
@@ -574,7 +574,7 @@
                                                     "name": "ရေရှည်တည်မြဲသော သစ်တောအသုံးပြုမှု"
                                                 },
                                                 {
-                                                    "name": "အမျိုးသား ဥယာဉ်များနှင့် တောရိုင်းတိရိစ္ဆာန်များအတွက် ဘေးမဲ့တောများ"
+                                                    "name": "အမျိုးသား ဥယျာဉ်များနှင့် တောရိုင်းတိရိစ္ဆာန်များအတွက် ဘေးမဲ့တောများ"
                                                 }
                                             ]
                                         }
@@ -1276,7 +1276,7 @@
                                     "name": "ရှေ့နေပညာရပ်"
                                 },
                                 {
-                                    "name": "တရားရုံးစားရေးပညာရပ်"
+                                    "name": "တရားရုံးစာရေးပညာရပ်"
                                 }
                             ]
                         },
@@ -1298,16 +1298,16 @@
                             "name": "ရဲဝန်ထမ်းများ"
                         },
                         {
-                            "name": "ထောင်များ",
+                            "name": "အကျဉ်းထောင်များ",
                             "children": [
                                 {
-                                    "name": "ထောင်မူဝါဒနှင့် အုပ်ချုပ်ရေး"
+                                    "name": "အကျဉ်းထောင်မူဝါဒနှင့် အုပ်ချုပ်ရေး"
                                 },
                                 {
-                                    "name": "ထောင်သားများ၏ အခွင့်အရေး"
+                                    "name": "အကျဉ်းထောင်သားများ၏ အခွင့်အရေး"
                                 },
                                 {
-                                    "name": "ထောင်များကို စောင့်ကြည့်လေ့လာခြင်း"
+                                    "name": "အကျဉ်းထောင်များကို စောင့်ကြည့်လေ့လာခြင်း"
                                 }
                             ]
                         }
@@ -1594,7 +1594,7 @@
                                     "name": "အမျိုးသမီးရေးရာမူဝါဒနှင့် အုပ်ချုပ်ရေး",
                                     "children": [
                                         {
-                                            "name": "အမျိုးသမီးအခွင့်အရေး"
+                                            "name": "Women's rights"
                                         }
                                     ]
                                 },
@@ -1617,7 +1617,7 @@
                                             "name": "အမျိုးသမီးများဖွံ့ဖြိုးတိုးတက်ရေးအတွက် အစိုးရမဟုတ်သောအဖွဲ့အစည်းများ"
                                         },
                                         {
-                                            "name": "အမျိုးသမီးအသင်းအဖွဲ့များ"
+                                            "name": "Women's associations"
                                         }
                                     ]
                                 }
@@ -1688,7 +1688,7 @@
                                     "name": "ဆင်းရဲမွဲတေမှုနှင့် ဆက်ဆိုင်သော မူဝါဒနှင့် လုပ်ထုံးလုပ်နည်းများ",
                                     "children": [
                                         {
-                                            "name": "ဆင်းရဲမွဲတေမှုလျှော့ချရေး"
+                                            "name": "Poverty reduction"
                                         },
                                         {
                                             "name": "စားနပ်ရိက္ခာဖူလုံမှု"
@@ -1712,7 +1712,7 @@
                             ]
                         },
                         {
-                            "name": "လူထုကျန်းမာရေး",
+                            "name": "ပြည်သူ့ကျန်းမာရေး",
                             "children": [
                                 {
                                     "name": "ကျန်းမာရေးစောင့်ရှောက်မှုဆိုင်ရာ မူဝါဒနှင့် အုပ်ချုပ်ရေး",
@@ -1749,19 +1749,19 @@
                                     "name": "ကျန်းမာရေးဆိုင်ရာ ဦးစားပေးထည့်သွင်းစဉ်းစားမှုများ",
                                     "children": [
                                         {
-                                            "name": "ကြက်ငှက်တုတ်ကွေး"
+                                            "name": "ကြက်ငှက်တုပ်ကွေး (bird flu)"
                                         },
                                         {
                                             "name": "HIV/AIDS"
                                         },
                                         {
-                                            "name": "ငှက်ဖျား"
+                                            "name": "ငှက်ဖျားရောဂါ"
                                         },
                                         {
                                             "name": "မိခင်နှင့်ကလေး ကျန်းမာရေး"
                                         },
                                         {
-                                            "name": "တီဘီ"
+                                            "name": "တီဘီရောဂါ"
                                         }
                                     ]
                                 },
@@ -1769,10 +1769,10 @@
                                     "name": "ကျန်းမာရေးကဏ္ဍ ဖွံ့ဖြိုးတိုးတက်ရေးအတွက် ကူညီထောက်ပံ့မှုများ",
                                     "children": [
                                         {
-                                            "name": "လူထုကျန်းမာရေးကူညီစောင့်ရှောက်မှု ရန်ပုံငွေ"
+                                            "name": "ပြည်သူ့ကျန်းမာရေးကူညီစောင့်ရှောက်မှု ရန်ပုံငွေ"
                                         },
                                         {
-                                            "name": "လူထုကျန်းမာရေးကူညီစောင့်ရှောက်မှုပေးနေသည့် အစိုးရမဟုတ်သောအဖွဲ့အစည်းများ"
+                                            "name": "ပြည်သူ့ကျန်းမာရေးကူညီစောင့်ရှောက်မှုပေးနေသည့် အစိုးရမဟုတ်သောအဖွဲ့အစည်းများ"
                                         }
                                     ]
                                 }
@@ -1864,61 +1864,60 @@
             ]
         },
         {
-          "name": "Sustainable Development Goals",
-          "children":
-          [
-            {
-              "name": "SDG1 No Poverty"
-            },
-            {
-              "name": "SDG2 Zero Hunger"
-            },
-            {
-              "name": "SDG3 Good Health and Well-Being"
-            },
-            {
-              "name": "SDG4 Equality Education"
-            },
-            {
-              "name": "SDG5 Gender Equality"
-            },
-            {
-              "name": "SDG6 Clean Water and Sanitation"
-            },
-            {
-              "name": "SDG7 Affordable and Clean Energy"
-            },
-            {
-              "name": "SDG8 Decent Work and Economic Growth"
-            },
-            {
-              "name": "SDG9 Industry, Innovation and Infrastructure"
-            },
-            {
-              "name": "SDG10 Reduced Equality"
-            },
-            {
-              "name": "SDG11 Sustainable Cities and Communities"
-            },
-            {
-              "name": "SDG12 Responsible Consumption and Production"
-            },
-            {
-              "name": "SDG13 Climate Change"
-            },
-            {
-              "name": "SDG14 Life Below Water"
-            },
-            {
-              "name": "SDG15 Life on Land"
-            },
-            {
-              "name": "SDG16 Peace, Justice and Strong Institutions"
-            },
-            {
-              "name": "SDG17 Partnerships for the Goals"
-            }
-          ]
+            "name": "Sustainable Development Goals",
+            "children": [
+                {
+                    "name": "SDG1 No Poverty"
+                },
+                {
+                    "name": "SDG2 Zero Hunger"
+                },
+                {
+                    "name": "SDG3 Good Health and Well-Being"
+                },
+                {
+                    "name": "SGD4 Quality Education"
+                },
+                {
+                    "name": "SDG5 Gender Equality"
+                },
+                {
+                    "name": "SDG6 Clean Water and Sanitation"
+                },
+                {
+                    "name": "SDG7 Affordable and Clean Energy"
+                },
+                {
+                    "name": "SDG8 Decent Work and Economic Growth"
+                },
+                {
+                    "name": "SDG9 Industry, Innovation and Infrastructure"
+                },
+                {
+                    "name": "SDG10 Reduce Inequality"
+                },
+                {
+                    "name": "SDG11 Sustainable Cities and Communities"
+                },
+                {
+                    "name": "SDG12 Responsible Consumption and Production"
+                },
+                {
+                    "name": "SDG13 Climate Action"
+                },
+                {
+                    "name": "SDG14 Life Below Water"
+                },
+                {
+                    "name": "SDG15 Life on Land"
+                },
+                {
+                    "name": "SDG16 Peace, Justice and Strong Institutions"
+                },
+                {
+                    "name": "SDG17 Partnerships for the Goals"
+                }
+            ]
         }
     ]
 }

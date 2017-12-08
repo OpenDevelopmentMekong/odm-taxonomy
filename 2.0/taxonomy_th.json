@@ -73,45 +73,47 @@
                                     ]
                                 },
                                 {
-                                    "name": "พืช ผลิตภัณฑ์และสินค้าโภคภัณฑ์"
-                                },
-                                {
-                                    "name": "พืชเชื้อเพลิงชีวภาพ",
+                                    "name": "พืช ผลิตภัณฑ์และสินค้าโภคภัณฑ์",
                                     "children": [
                                         {
-                                            "name": "มันสำปะหลัง"
+                                            "name": "พืชเชื้อเพลิงชีวภาพ",
+                                            "children": [
+                                                {
+                                                    "name": "มันสำปะหลัง"
+                                                },
+                                                {
+                                                    "name": "สบู่ดำ"
+                                                },
+                                                {
+                                                    "name": "น้ำตาลชานอ้อย"
+                                                }
+                                            ]
                                         },
                                         {
-                                            "name": "สบู่ดำ"
+                                            "name": "เม็ดมะม่วงหิมพานต์"
                                         },
                                         {
-                                            "name": "น้ำตาลชานอ้อย"
+                                            "name": "ผักและผลไม้"
+                                        },
+                                        {
+                                            "name": "ข้าวโพดเลี้ยงสัตว์ (ข้าวโพด)"
+                                        },
+                                        {
+                                            "name": "น้ำมันปาล์ม"
+                                        },
+                                        {
+                                            "name": "ข้าว"
+                                        },
+                                        {
+                                            "name": "ยาง"
+                                        },
+                                        {
+                                            "name": "ถั่วเหลือง"
+                                        },
+                                        {
+                                            "name": "อ้อย"
                                         }
                                     ]
-                                },
-                                {
-                                    "name": "เม็ดมะม่วงหิมพานต์"
-                                },
-                                {
-                                    "name": "ผักและผลไม้"
-                                },
-                                {
-                                    "name": "ข้าวโพดเลี้ยงสัตว์ (ข้าวโพด)"
-                                },
-                                {
-                                    "name": "น้ำมันปาล์ม"
-                                },
-                                {
-                                    "name": "ข้าว"
-                                },
-                                {
-                                    "name": "ยาง"
-                                },
-                                {
-                                    "name": "ถั่วเหลือง"
-                                },
-                                {
-                                    "name": "อ้อย"
                                 }
                             ]
                         }
@@ -314,10 +316,15 @@
                     "name": "การลงทุน",
                     "children": [
                         {
-                            "name": "นักลงทุนภายในประเทศ"
-                        },
-                        {
-                            "name": "นักลงทุนต่างชาติ"
+                            "name": "Investment policy and regulations",
+                            "children": [
+                                {
+                                    "name": "นักลงทุนภายในประเทศ"
+                                },
+                                {
+                                    "name": "นักลงทุนต่างชาติ"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -369,7 +376,7 @@
                             "name": "การผลิตพลังงานที่ไม่หมุนเวียน"
                         },
                         {
-                            "name": "พลังงานน้ำ"
+                            "name": "Hydropower dams"
                         },
                         {
                             "name": "การผลิตพลังงานหมุนเวียน"
@@ -408,9 +415,6 @@
                     "name": "สภาพแวดล้อมและทรัพยากรธรรมชาตินโยบายและการบริหารจัดการ",
                     "children": [
                         {
-                            "name": "การประเมินผลกระทบสิ่งแวดล้อม (EIA)"
-                        },
-                        {
                             "name": "ภาพรวมของนโยบายและกรอบกฎหมาย",
                             "children": [
                                 {
@@ -420,6 +424,9 @@
                                     "name": "ประเภทของพื้นที่คุ้มครอง"
                                 }
                             ]
+                        },
+                        {
+                            "name": "การประเมินผลกระทบสิ่งแวดล้อม (EIA)"
                         }
                     ]
                 },
@@ -475,7 +482,7 @@
                                     "name": "การรายงานพื้นที่ครอบคลุมป่า"
                                 },
                                 {
-                                    "name": "การควบคุมการทำลายป่า"
+                                    "name": "Deforestation drivers"
                                 }
                             ]
                         },
@@ -528,6 +535,9 @@
                                                     ]
                                                 }
                                             ]
+                                        },
+                                        {
+                                            "name": "Forest trade and finance"
                                         }
                                     ]
                                 },
@@ -541,7 +551,15 @@
                                     "name": "การผลิตผลิตภัณฑ์จากป่าไม้",
                                     "children": [
                                         {
-                                            "name": "การสนับสนุนผลิตผลิตภัณฑ์จากป่าไม้"
+                                            "name": "การสนับสนุนผลิตผลิตภัณฑ์จากป่าไม้",
+                                            "children": [
+                                                {
+                                                    "name": "Forest protection funding"
+                                                },
+                                                {
+                                                    "name": "Forest protection NGOs"
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "ป่าสงวน",
@@ -744,13 +762,13 @@
                             "name": "นโยบายและกฎระเบียบอุตสาหกรรมหัตถกรรม"
                         },
                         {
-                            "name": "ความช่วยเหลือด้านการพัฒนา",
+                            "name": "Development and assistance for handicrafts industry",
                             "children": [
                                 {
-                                    "name": "โครงการผู้บริจาค"
+                                    "name": "Handicrafts industry assistance funding"
                                 },
                                 {
-                                    "name": "เอ็นจีโอที่พัฒนาและช่วยเหลือด้านงานหัตถกรรม"
+                                    "name": "Handicrafts industry assistance NGOs"
                                 }
                             ]
                         }
@@ -970,7 +988,7 @@
                             "name": "การพัฒนาและการช่วยเหลือด้านน้ำและสุขาภิบาล",
                             "children": [
                                 {
-                                    "name": "ทุนด้านน้ำและสุขาภิบาล"
+                                    "name": "Water and sanitation funding"
                                 },
                                 {
                                     "name": "เอ็นจีโอด้านน้ำและสุขาภิบาล"
@@ -981,7 +999,7 @@
                             "name": "โครงสร้างพื้นฐานและสิ่งอำนวยความสะดวกด้านน้ำและสุขาภิบาล",
                             "children": [
                                 {
-                                    "name": "โครงสร้างพื้นฐานด้านน้ำและสุขาภิบาลในชนบท",
+                                    "name": "Rural water and sanitation infrastructure",
                                     "children": [
                                         {
                                             "name": "การสำรองน้ำในชนบท"
@@ -992,7 +1010,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "โครงสร้างพื้นฐานด้านน้ำและสุขาภิบาลในเมือง",
+                                    "name": "Urban water and sanitation infrastructure",
                                     "children": [
                                         {
                                             "name": "นโยบายและการบริหารจัดการเมือง"
@@ -1094,7 +1112,15 @@
                     "name": "การถือครองที่ดินและการครอบครอง",
                     "children": [
                         {
-                            "name": "การพัฒนาและการช่วยเหลือสำหรับการถือครองที่ดิน"
+                            "name": "การพัฒนาและการช่วยเหลือสำหรับการถือครองที่ดิน",
+                            "children": [
+                                {
+                                    "name": "Land tenure and land titling funding"
+                                },
+                                {
+                                    "name": "Land tenure and land titling NGOs"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -1122,6 +1148,9 @@
                 },
                 {
                     "name": "ที่ดินชุมชน"
+                },
+                {
+                    "name": "Social land concessions"
                 },
                 {
                     "name": "กับระเบิด UXO และการกู้ระเบิด"
@@ -1257,7 +1286,7 @@
                     ]
                 },
                 {
-                    "name": "การบังคับใช้กฎหมาย",
+                    "name": "Crime and law enforcement",
                     "children": [
                         {
                             "name": "อาชญากรรม"
@@ -1272,10 +1301,13 @@
                             "name": "คุก",
                             "children": [
                                 {
-                                    "name": "สิทธินักโทษ"
+                                    "name": "Prisons policy and administration"
                                 },
                                 {
-                                    "name": "ตรวจสอบเรือนจำ"
+                                    "name": "Prisoner rights"
+                                },
+                                {
+                                    "name": "Prison monitoring"
                                 }
                             ]
                         }
@@ -1359,7 +1391,7 @@
                             "name": "นโยบายผู้สูงอายุและการบริหารจัดการ"
                         },
                         {
-                            "name": "ความช่วยเหลือเพื่อการพัฒนาสำหรับผู้สูงอายุ",
+                            "name": "Development and assistance for the aged",
                             "children": [
                                 {
                                     "name": "ทุนเพื่อการช่วยเหลือด้านผู้สูงอายุ"
@@ -1409,7 +1441,7 @@
                                     "name": "ทุนเพื่อการช่วยเหลือคนพิการ"
                                 },
                                 {
-                                    "name": "เอ็นจีโอด้านการช่วยเหลือคนพิการ"
+                                    "name": "Disabled persons assistance NGOs"
                                 }
                             ]
                         }
@@ -1562,7 +1594,7 @@
                                     "name": "นโยบายและการบริหารจัดการสตรี",
                                     "children": [
                                         {
-                                            "name": "สิทธิสตรี"
+                                            "name": "Women's rights"
                                         }
                                     ]
                                 },
@@ -1585,7 +1617,7 @@
                                             "name": "เอ็นจีโอด้านการพัฒนาสตรี"
                                         },
                                         {
-                                            "name": "สมาคมสตรี"
+                                            "name": "Women's associations"
                                         }
                                     ]
                                 }
@@ -1656,7 +1688,7 @@
                                     "name": "นโยบายและกฎระเบียบด้านความยากจน",
                                     "children": [
                                         {
-                                            "name": "การลดความยากจน"
+                                            "name": "Poverty reduction"
                                         },
                                         {
                                             "name": "ความมั่นคงด้านอาหาร"
@@ -1706,7 +1738,7 @@
                                             "name": "การรับรองทางการแพทย์และกฎระเบียบ"
                                         },
                                         {
-                                            "name": "สมาคมวิชาชีพ"
+                                            "name": "Medical professional associations"
                                         }
                                     ]
                                 },
@@ -1750,15 +1782,7 @@
                             "name": "ประกันสังคมและทหารผ่านศึก",
                             "children": [
                                 {
-                                    "name": "การรักษาความปลอดภัยทางสังคมและทหารผ่านศึก: สถานะและแนวโน้ม"
-                                },
-                                {
-                                    "name": "นโยบายความปลอดภัยทางสังคมและการบริหารงาน",
-                                    "children": [
-                                        {
-                                            "name": "นโยบายความปลอดภัยทางสังคมและการบริหารงาน"
-                                        }
-                                    ]
+                                    "name": "นโยบายความปลอดภัยทางสังคมและการบริหารงาน"
                                 }
                             ]
                         },
@@ -1775,10 +1799,10 @@
                                     "name": "การพัฒนาและการช่วยเหลือสำหรับกีฬา",
                                     "children": [
                                         {
-                                            "name": "การระดมทุน"
+                                            "name": "Sports development and assistance funding"
                                         },
                                         {
-                                            "name": "เอ็นจีโอ"
+                                            "name": "Sports development and assistance NGOs"
                                         }
                                     ]
                                 },
@@ -1840,61 +1864,60 @@
             ]
         },
         {
-          "name": "Sustainable Development Goals",
-          "children":
-          [
-            {
-              "name": "SDG1 No Poverty"
-            },
-            {
-              "name": "SDG2 Zero Hunger"
-            },
-            {
-              "name": "SDG3 Good Health and Well-Being"
-            },
-            {
-              "name": "SDG4 Equality Education"
-            },
-            {
-              "name": "SDG5 Gender Equality"
-            },
-            {
-              "name": "SDG6 Clean Water and Sanitation"
-            },
-            {
-              "name": "SDG7 Affordable and Clean Energy"
-            },
-            {
-              "name": "SDG8 Decent Work and Economic Growth"
-            },
-            {
-              "name": "SDG9 Industry, Innovation and Infrastructure"
-            },
-            {
-              "name": "SDG10 Reduced Equality"
-            },
-            {
-              "name": "SDG11 Sustainable Cities and Communities"
-            },
-            {
-              "name": "SDG12 Responsible Consumption and Production"
-            },
-            {
-              "name": "SDG13 Climate Change"
-            },
-            {
-              "name": "SDG14 Life Below Water"
-            },
-            {
-              "name": "SDG15 Life on Land"
-            },
-            {
-              "name": "SDG16 Peace, Justice and Strong Institutions"
-            },
-            {
-              "name": "SDG17 Partnerships for the Goals"
-            }
-          ]
+            "name": "Sustainable Development Goals",
+            "children": [
+                {
+                    "name": "SDG1 No Poverty"
+                },
+                {
+                    "name": "SDG2 Zero Hunger"
+                },
+                {
+                    "name": "SDG3 Good Health and Well-Being"
+                },
+                {
+                    "name": "SGD4 Quality Education"
+                },
+                {
+                    "name": "SDG5 Gender Equality"
+                },
+                {
+                    "name": "SDG6 Clean Water and Sanitation"
+                },
+                {
+                    "name": "SDG7 Affordable and Clean Energy"
+                },
+                {
+                    "name": "SDG8 Decent Work and Economic Growth"
+                },
+                {
+                    "name": "SDG9 Industry, Innovation and Infrastructure"
+                },
+                {
+                    "name": "SDG10 Reduce Inequality"
+                },
+                {
+                    "name": "SDG11 Sustainable Cities and Communities"
+                },
+                {
+                    "name": "SDG12 Responsible Consumption and Production"
+                },
+                {
+                    "name": "SDG13 Climate Action"
+                },
+                {
+                    "name": "SDG14 Life Below Water"
+                },
+                {
+                    "name": "SDG15 Life on Land"
+                },
+                {
+                    "name": "SDG16 Peace, Justice and Strong Institutions"
+                },
+                {
+                    "name": "SDG17 Partnerships for the Goals"
+                }
+            ]
         }
     ]
 }
