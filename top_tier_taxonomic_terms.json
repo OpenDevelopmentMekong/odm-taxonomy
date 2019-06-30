@@ -1,0 +1,2601 @@
+{
+
+    "config": [
+        [
+            "All",
+            null,
+            0
+        ],
+        [
+            "Agriculture and fishing",
+            "All",
+            62
+        ],
+        [
+            "Agriculture",
+            "Agriculture and fishing",
+            138
+        ],
+        [
+            "Agricultural policy and administration",
+            "Agriculture",
+            32
+        ],
+        [
+            "Agricultural production",
+            "Agriculture",
+            23
+        ],
+        [
+            "Agro-industrial production",
+            "Agricultural production",
+            6
+        ],
+        [
+            "Contract farming",
+            "Agro-industrial production",
+            3
+        ],
+        [
+            "Economic land concessions and plantations",
+            "Agro-industrial production",
+            439
+        ],
+        [
+            "Livestock farming",
+            "Agricultural production",
+            4
+        ],
+        [
+            "Organic farming",
+            "Agricultural production",
+            3
+        ],
+        [
+            "Small and medium scale farming",
+            "Agricultural production",
+            4
+        ],
+        [
+            "Agricultural management systems and technologies",
+            "Agriculture",
+            5
+        ],
+        [
+            "Agricultural engineering services and equipment",
+            "Agricultural management systems and technologies",
+            0
+        ],
+        [
+            "Pest management",
+            "Agricultural management systems and technologies",
+            2
+        ],
+        [
+            "Soil management",
+            "Agricultural management systems and technologies",
+            11
+        ],
+        [
+            "Irrigation and water management",
+            "Agricultural management systems and technologies",
+            29
+        ],
+        [
+            "Agricultural commodities, processing and products",
+            "Agriculture",
+            6
+        ],
+        [
+            "Animal products",
+            "Agricultural commodities, processing and products",
+            1
+        ],
+        [
+            "Dairy",
+            "Animal products",
+            0
+        ],
+        [
+            "Meat",
+            "Animal products",
+            0
+        ],
+        [
+            "Leather",
+            "Animal products",
+            0
+        ],
+        [
+            "Poultry and eggs",
+            "Animal products",
+            0
+        ],
+        [
+            "Crop products and commodities",
+            "Agricultural commodities, processing and products",
+            11
+        ],
+        [
+            "Biofuel crops",
+            "Crop products and commodities",
+            2
+        ],
+        [
+            "Cassava",
+            "Biofuel crops",
+            0
+        ],
+        [
+            "Jatropha",
+            "Biofuel crops",
+            0
+        ],
+        [
+            "Sugar bagasse",
+            "Biofuel crops",
+            0
+        ],
+        [
+            "Cashews",
+            "Crop products and commodities",
+            1
+        ],
+        [
+            "Fruits and vegetables",
+            "Crop products and commodities",
+            4
+        ],
+        [
+            "Maize (corn)",
+            "Crop products and commodities",
+            2
+        ],
+        [
+            "Palm oil",
+            "Crop products and commodities",
+            2
+        ],
+        [
+            "Rice",
+            "Crop products and commodities",
+            21
+        ],
+        [
+            "Rubber",
+            "Crop products and commodities",
+            5
+        ],
+        [
+            "Soybean",
+            "Crop products and commodities",
+            1
+        ],
+        [
+            "Sugarcane",
+            "Crop products and commodities",
+            2
+        ],
+        [
+            "Fishing, fisheries and aquaculture",
+            "Agriculture and fishing",
+            11
+        ],
+        [
+            "Fishing policy and administration",
+            "Fishing, fisheries and aquaculture",
+            8
+        ],
+        [
+            "Fisheries production",
+            "Fishing, fisheries and aquaculture",
+            19
+        ],
+        [
+            "Wild capture commercial fishing and natural fisheries",
+            "Fisheries production",
+            25
+        ],
+        [
+            "Community fisheries",
+            "Fisheries production",
+            26
+        ],
+        [
+            "Fish farming and aquaculture",
+            "Fisheries production",
+            9
+        ],
+        [
+            "Aid and development",
+            "All",
+            13
+        ],
+        [
+            "Development policy and administration",
+            "Aid and development",
+            3
+        ],
+        [
+            "Multilateral development assistance",
+            "Aid and development",
+            1
+        ],
+        [
+            "Asian Development Bank (ADB)",
+            "Multilateral development assistance",
+            16
+        ],
+        [
+            "China Development Bank (CDB)",
+            "Multilateral development assistance",
+            0
+        ],
+        [
+            "Food and Agriculture Organization (FAO)",
+            "Multilateral development assistance",
+            2
+        ],
+        [
+            "International Monetary Fund (IMF)",
+            "Multilateral development assistance",
+            0
+        ],
+        [
+            "United Nations",
+            "Multilateral development assistance",
+            5
+        ],
+        [
+            "World Bank",
+            "Multilateral development assistance",
+            8
+        ],
+        [
+            "Bilateral development assistance",
+            "Aid and development",
+            6
+        ],
+        [
+            "Development Assistance Committee (DAC) members",
+            "Bilateral development assistance",
+            0
+        ],
+        [
+            "Australian aid",
+            "Development Assistance Committee (DAC) members",
+            0
+        ],
+        [
+            "European Union aid",
+            "Development Assistance Committee (DAC) members",
+            2
+        ],
+        [
+            "German aid",
+            "Development Assistance Committee (DAC) members",
+            2
+        ],
+        [
+            "Japanese aid",
+            "Development Assistance Committee (DAC) members",
+            0
+        ],
+        [
+            "South Korean aid",
+            "Development Assistance Committee (DAC) members",
+            0
+        ],
+        [
+            "Swedish aid",
+            "Development Assistance Committee (DAC) members",
+            0
+        ],
+        [
+            "United States aid",
+            "Development Assistance Committee (DAC) members",
+            0
+        ],
+        [
+            "Non-DAC members",
+            "Bilateral development assistance",
+            0
+        ],
+        [
+            "Chinese aid",
+            "Non-DAC members",
+            0
+        ],
+        [
+            "Indian aid",
+            "Non-DAC members",
+            0
+        ],
+        [
+            "Malaysian aid",
+            "Non-DAC members",
+            0
+        ],
+        [
+            "Private non-profit development assistance",
+            "Bilateral development assistance",
+            0
+        ],
+        [
+            "Disasters and emergency response",
+            "All",
+            7
+        ],
+        [
+            "Disaster preparedness and emergency response policy and administration",
+            "Disasters and emergency response",
+            5
+        ],
+        [
+            "Non-governmental preparedness and response agencies",
+            "Disasters and emergency response",
+            0
+        ],
+        [
+            "Red Cross",
+            "Non-governmental preparedness and response agencies",
+            0
+        ],
+        [
+            "Disasters and emergency response funding",
+            "Non-governmental preparedness and response agencies",
+            0
+        ],
+        [
+            "Disaster and emergency response NGOs",
+            "Non-governmental preparedness and response agencies",
+            3
+        ],
+        [
+            "Disasters",
+            "Disasters and emergency response",
+            11
+        ],
+        [
+            "Drought",
+            "Disasters",
+            2
+        ],
+        [
+            "Fires",
+            "Disasters",
+            2
+        ],
+        [
+            "Floods",
+            "Disasters",
+            11
+        ],
+        [
+            "Storms",
+            "Disasters",
+            0
+        ],
+        [
+            "Earthquakes",
+            "Disasters",
+            0
+        ],
+        [
+            "Tsunamis",
+            "Disasters",
+            0
+        ],
+        [
+            "Pandemics",
+            "Disasters",
+            0
+        ],
+        [
+            "Economy and commerce",
+            "All",
+            66
+        ],
+        [
+            "Economic policy and administration",
+            "Economy and commerce",
+            34
+        ],
+        [
+            "Business structures and legal registration",
+            "Economic policy and administration",
+            7
+        ],
+        [
+            "Banking and financial services",
+            "Economy and commerce",
+            12
+        ],
+        [
+            "Banking and financial services policy and regulation",
+            "Banking and financial services",
+            5
+        ],
+        [
+            "Major banks",
+            "Banking and financial services",
+            2
+        ],
+        [
+            "Micro-finance",
+            "Banking and financial services",
+            1
+        ],
+        [
+            "Business associations",
+            "Economy and commerce",
+            3
+        ],
+        [
+            "American Chambers of Commerce",
+            "Business associations",
+            1
+        ],
+        [
+            "Australian Chamber of Commerce",
+            "Business associations",
+            0
+        ],
+        [
+            "Local chamber of commerce",
+            "Business associations",
+            0
+        ],
+        [
+            "Chinese business associations",
+            "Business associations",
+            0
+        ],
+        [
+            "Investment",
+            "Economy and commerce",
+            26
+        ],
+        [
+            "Investment policy and regulations",
+            "Investment",
+            0
+        ],
+        [
+            "Domestic investors",
+            "Investment policy and regulations",
+            3
+        ],
+        [
+            "Foreign investors",
+            "Investment policy and regulations",
+            11
+        ],
+        [
+            "Small and medium enterprises (SME)",
+            "Economy and commerce",
+            1
+        ],
+        [
+            "SMEs policy and regulation",
+            "Small and medium enterprises (SME)",
+            0
+        ],
+        [
+            "Trade",
+            "Small and medium enterprises (SME)",
+            133
+        ],
+        [
+            "Trade policy and regulation",
+            "Trade",
+            15
+        ],
+        [
+            "Imports",
+            "Trade",
+            3
+        ],
+        [
+            "Exports",
+            "Trade",
+            12
+        ],
+        [
+            "Securities exchange (stock market)",
+            "Small and medium enterprises (SME)",
+            0
+        ],
+        [
+            "Securities exchange policy and regulation",
+            "Securities exchange (stock market)",
+            0
+        ],
+        [
+            "Stock market",
+            "Securities exchange (stock market)",
+            1
+        ],
+        [
+            "Energy",
+            "All",
+            60
+        ],
+        [
+            "Energy policy and administration",
+            "Energy",
+            16
+        ],
+        [
+            "Electricity production",
+            "Energy",
+            13
+        ],
+        [
+            "Non-renewable energy production",
+            "Electricity production",
+            5
+        ],
+        [
+            "Hydropower dams",
+            "Electricity production",
+            0
+        ],
+        [
+            "Renewable energy production",
+            "Electricity production",
+            9
+        ],
+        [
+            "Energy for transport",
+            "Energy",
+            7
+        ],
+        [
+            "Cooking fuel",
+            "Energy",
+            0
+        ],
+        [
+            "Environment and natural resources",
+            "All",
+            132
+        ],
+        [
+            "Ecological services",
+            "Environment and natural resources",
+            7
+        ],
+        [
+            "Biodiversity",
+            "Environment and natural resources",
+            102
+        ],
+        [
+            "Animals",
+            "Biodiversity",
+            8
+        ],
+        [
+            "Plants",
+            "Biodiversity",
+            3
+        ],
+        [
+            "Ecosystems",
+            "Biodiversity",
+            4
+        ],
+        [
+            "Environment and natural resources policy and administration",
+            "Environment and natural resources",
+            45
+        ],
+        [
+            "Overview of policy and legal framework",
+            "Environment and natural resources policy and administration",
+            3
+        ],
+        [
+            "Relevant ministries",
+            "Overview of policy and legal framework",
+            0
+        ],
+        [
+            "Types of state-protected areas",
+            "Overview of policy and legal framework",
+            25
+        ],
+        [
+            "Environmental impact assessments",
+            "Environment and natural resources policy and administration",
+            48
+        ],
+        [
+            "Climate change",
+            "Environment and natural resources",
+            51
+        ],
+        [
+            "Adaptation",
+            "Climate change",
+            17
+        ],
+        [
+            "Mitigation",
+            "Climate change",
+            3
+        ],
+        [
+            "Clean development mechanism",
+            "Mitigation",
+            0
+        ],
+        [
+            "Nationally Appropriate Mitigation Action",
+            "Mitigation",
+            0
+        ],
+        [
+            "Environmental and biodiversity protection",
+            "Environment and natural resources",
+            89
+        ],
+        [
+            "Pollution and waste",
+            "Environment and natural resources",
+            8
+        ],
+        [
+            "Air pollution",
+            "Pollution and waste",
+            2
+        ],
+        [
+            "Water pollution",
+            "Pollution and waste",
+            1
+        ],
+        [
+            "Solid waste",
+            "Pollution and waste",
+            1
+        ],
+        [
+            "Electronic waste",
+            "Pollution and waste",
+            0
+        ],
+        [
+            "Forests and forestry",
+            "Environment and natural resources",
+            49
+        ],
+        [
+            "Forest policy and administration",
+            "Forests and forestry",
+            29
+        ],
+        [
+            "Forest cover",
+            "Forests and forestry",
+            22
+        ],
+        [
+            "Forest cover reporting",
+            "Forest cover",
+            2
+        ],
+        [
+            "Deforestation drivers",
+            "Forest cover",
+            0
+        ],
+        [
+            "Forest classifications",
+            "Forests and forestry",
+            11
+        ],
+        [
+            "Terms and definitions",
+            "Forest classifications",
+            0
+        ],
+        [
+            "Dense forest",
+            "Terms and definitions",
+            0
+        ],
+        [
+            "Regenerated forest",
+            "Terms and definitions",
+            3
+        ],
+        [
+            "Secondary/mixed forest",
+            "Terms and definitions",
+            0
+        ],
+        [
+            "Forest products",
+            "Forests and forestry",
+            7
+        ],
+        [
+            "Forest industry",
+            "Forest products",
+            7
+        ],
+        [
+            "Logging and timber",
+            "Forest industry",
+            4
+        ],
+        [
+            "Tree plantation",
+            "Forest industry",
+            10
+        ],
+        [
+            "Hardwoods",
+            "Tree plantation",
+            1
+        ],
+        [
+            "Paper and pulp",
+            "Tree plantation",
+            1
+        ],
+        [
+            "Acacia",
+            "Paper and pulp",
+            0
+        ],
+        [
+            "Eucalyptus",
+            "Paper and pulp",
+            0
+        ],
+        [
+            "Pine",
+            "Paper and pulp",
+            0
+        ],
+        [
+            "Forest trade and finance",
+            "Forest industry",
+            0
+        ],
+        [
+            "Non-timber forest products",
+            "Forest products",
+            5
+        ],
+        [
+            "Plantation timber",
+            "Forest products",
+            0
+        ],
+        [
+            "Forest protection",
+            "Forest products",
+            21
+        ],
+        [
+            "Forest protection support",
+            "Forest protection",
+            2
+        ],
+        [
+            "Forest protection funding",
+            "Forest protection support",
+            0
+        ],
+        [
+            "Forest protection NGOs",
+            "Forest protection support",
+            0
+        ],
+        [
+            "Protected areas",
+            "Forest protection",
+            63
+        ],
+        [
+            "Protected forests",
+            "Protected areas",
+            38
+        ],
+        [
+            "Community forest",
+            "Protected areas",
+            55
+        ],
+        [
+            "Sustainable use forest",
+            "Protected areas",
+            0
+        ],
+        [
+            "National parks and wildlife sanctuaries",
+            "Protected areas",
+            5
+        ],
+        [
+            "Water resources",
+            "Environment and natural resources",
+            79
+        ],
+        [
+            "Water policy and administration",
+            "Water resources",
+            14
+        ],
+        [
+            "Water rights",
+            "Water policy and administration",
+            16
+        ],
+        [
+            "Ground water",
+            "Water resources",
+            10
+        ],
+        [
+            "Rivers and lakes",
+            "Water resources",
+            39
+        ],
+        [
+            "Marine and coastal areas",
+            "Water resources",
+            3
+        ],
+        [
+            "Extractive industries",
+            "All",
+            59
+        ],
+        [
+            "Extractive industries policy and administration",
+            "Extractive industries",
+            11
+        ],
+        [
+            "Extractive industries licensing and payments",
+            "Extractive industries policy and administration",
+            39
+        ],
+        [
+            "Extractive industries revenue",
+            "Extractive industries policy and administration",
+            3
+        ],
+        [
+            "Mining",
+            "Extractive industries",
+            87
+        ],
+        [
+            "Artisanal mining",
+            "Mining",
+            2
+        ],
+        [
+            "Gemstone mining",
+            "Mining",
+            3
+        ],
+        [
+            "Industrial mining",
+            "Mining",
+            59
+        ],
+        [
+            "Quarrying",
+            "Mining",
+            0
+        ],
+        [
+            "Minerals and mineral products",
+            "Extractive industries",
+            57
+        ],
+        [
+            "Coal",
+            "Minerals and mineral products",
+            1
+        ],
+        [
+            "Copper",
+            "Minerals and mineral products",
+            0
+        ],
+        [
+            "Gemstones",
+            "Minerals and mineral products",
+            3
+        ],
+        [
+            "Gold",
+            "Minerals and mineral products",
+            1
+        ],
+        [
+            "Gravel and limestone",
+            "Minerals and mineral products",
+            0
+        ],
+        [
+            "Iron and steel",
+            "Minerals and mineral products",
+            0
+        ],
+        [
+            "Uranium",
+            "Minerals and mineral products",
+            0
+        ],
+        [
+            "Oil and gas resources",
+            "Extractive industries",
+            15
+        ],
+        [
+            "On-shore oil and gas exploration and extraction",
+            "Oil and gas resources",
+            7
+        ],
+        [
+            "Off-shore oil and gas exploration and extraction",
+            "Oil and gas resources",
+            14
+        ],
+        [
+            "Oil refineries",
+            "Oil and gas resources",
+            0
+        ],
+        [
+            "Oil transport",
+            "Oil and gas resources",
+            0
+        ],
+        [
+            "Government",
+            "All",
+            224
+        ],
+        [
+            "System of government",
+            "Government",
+            13
+        ],
+        [
+            "National government",
+            "Government",
+            10
+        ],
+        [
+            "Head of state",
+            "National government",
+            0
+        ],
+        [
+            "Executive",
+            "National government",
+            0
+        ],
+        [
+            "Parliament",
+            "National government",
+            4
+        ],
+        [
+            "Ministries and other national bodies",
+            "National government",
+            1
+        ],
+        [
+            "Provincial and local governments",
+            "Government",
+            23
+        ],
+        [
+            "Administration",
+            "Provincial and local governments",
+            347
+        ],
+        [
+            "Decentralization and deconcentration",
+            "Provincial and local governments",
+            4
+        ],
+        [
+            "Elections",
+            "Government",
+            21
+        ],
+        [
+            "Budget",
+            "Government",
+            38
+        ],
+        [
+            "Taxation",
+            "Government",
+            21
+        ],
+        [
+            "Government services",
+            "Government",
+            28
+        ],
+        [
+            "Procurement",
+            "Government",
+            0
+        ],
+        [
+            "Anti-corruption",
+            "Government",
+            13
+        ],
+        [
+            "International relations",
+            "Government",
+            40
+        ],
+        [
+            "Industries",
+            "All",
+            126
+        ],
+        [
+            "Construction",
+            "Industries",
+            8
+        ],
+        [
+            "Construction policy and regulation",
+            "Construction",
+            8
+        ],
+        [
+            "Major companies and projects",
+            "Construction",
+            2
+        ],
+        [
+            "Handicrafts",
+            "Industries",
+            1
+        ],
+        [
+            "Handicrafts industry policy and regulation",
+            "Handicrafts",
+            0
+        ],
+        [
+            "Development and assistance for handicrafts industry",
+            "Handicrafts",
+            0
+        ],
+        [
+            "Handicrafts industry assistance funding",
+            "Development and assistance for handicrafts industry",
+            0
+        ],
+        [
+            "Handicrafts industry assistance NGOs",
+            "Development and assistance for handicrafts industry",
+            0
+        ],
+        [
+            "Manufacturing",
+            "Industries",
+            7
+        ],
+        [
+            "Manufacturing policy and regulation",
+            "Manufacturing",
+            5
+        ],
+        [
+            "Agricultural processing",
+            "Manufacturing",
+            2
+        ],
+        [
+            "Animal feed",
+            "Agricultural processing",
+            0
+        ],
+        [
+            "Biofuels",
+            "Agricultural processing",
+            2
+        ],
+        [
+            "Fertilizer",
+            "Agricultural processing",
+            1
+        ],
+        [
+            "Cars",
+            "Manufacturing",
+            1
+        ],
+        [
+            "Food processing",
+            "Manufacturing",
+            6
+        ],
+        [
+            "Beverages",
+            "Food processing",
+            0
+        ],
+        [
+            "Fish and seafood",
+            "Food processing",
+            6
+        ],
+        [
+            "Meat and meat products",
+            "Food processing",
+            0
+        ],
+        [
+            "Milk and milk products",
+            "Food processing",
+            1
+        ],
+        [
+            "Processed foods",
+            "Food processing",
+            1
+        ],
+        [
+            "Salt",
+            "Food processing",
+            0
+        ],
+        [
+            "Furniture",
+            "Manufacturing",
+            0
+        ],
+        [
+            "Furniture policy and regulation",
+            "Furniture",
+            0
+        ],
+        [
+            "Garments and textiles",
+            "Manufacturing",
+            12
+        ],
+        [
+            "Clothes",
+            "Garments and textiles",
+            0
+        ],
+        [
+            "Shoes",
+            "Garments and textiles",
+            0
+        ],
+        [
+            "Cotton and silk",
+            "Garments and textiles",
+            0
+        ],
+        [
+            "Mineral processing and products",
+            "Manufacturing",
+            49
+        ],
+        [
+            "Bricks and tiles",
+            "Mineral processing and products",
+            0
+        ],
+        [
+            "Cement",
+            "Mineral processing and products",
+            0
+        ],
+        [
+            "Oil",
+            "Mineral processing and products",
+            18
+        ],
+        [
+            "Steel",
+            "Mineral processing and products",
+            0
+        ],
+        [
+            "Real estate",
+            "Manufacturing",
+            0
+        ],
+        [
+            "Tourism",
+            "Manufacturing",
+            15
+        ],
+        [
+            "Gaming",
+            "Manufacturing",
+            0
+        ],
+        [
+            "Infrastructure",
+            "All",
+            127
+        ],
+        [
+            "Communications",
+            "Infrastructure",
+            10
+        ],
+        [
+            "Communications policy and administration",
+            "Communications",
+            5
+        ],
+        [
+            "Communications infrastructure",
+            "Communications",
+            6
+        ],
+        [
+            "Internet",
+            "Communications infrastructure",
+            2
+        ],
+        [
+            "Radio",
+            "Communications infrastructure",
+            1
+        ],
+        [
+            "Telephone",
+            "Communications infrastructure",
+            0
+        ],
+        [
+            "Landline",
+            "Telephone",
+            0
+        ],
+        [
+            "Mobile",
+            "Telephone",
+            0
+        ],
+        [
+            "Television",
+            "Communications infrastructure",
+            0
+        ],
+        [
+            "Development and funding for communications",
+            "Communications",
+            0
+        ],
+        [
+            "Electricity infrastructure",
+            "Infrastructure",
+            12
+        ],
+        [
+            "Electricity policy and administration",
+            "Electricity infrastructure",
+            1
+        ],
+        [
+            "Generation and distribution facilities",
+            "Electricity infrastructure",
+            0
+        ],
+        [
+            "Development and funding for electricity",
+            "Electricity infrastructure",
+            1
+        ],
+        [
+            "Markets",
+            "Infrastructure",
+            3
+        ],
+        [
+            "Markets policy and regulation",
+            "Markets",
+            0
+        ],
+        [
+            "Vendors",
+            "Markets",
+            0
+        ],
+        [
+            "Vendor rights",
+            "Vendors",
+            0
+        ],
+        [
+            "Vendor associations",
+            "Vendors",
+            0
+        ],
+        [
+            "Transport and shipping",
+            "Infrastructure",
+            52
+        ],
+        [
+            "Transport and shipping policy and administration",
+            "Transport and shipping",
+            24
+        ],
+        [
+            "Transport infrastructure and facilities",
+            "Transport and shipping",
+            66
+        ],
+        [
+            "Airports and air travel",
+            "Transport infrastructure and facilities",
+            11
+        ],
+        [
+            "Roads and bridges",
+            "Transport infrastructure and facilities",
+            38
+        ],
+        [
+            "Rail",
+            "Transport infrastructure and facilities",
+            3
+        ],
+        [
+            "Waterways and ports",
+            "Transport infrastructure and facilities",
+            10
+        ],
+        [
+            "Development and funding for transport",
+            "Transport and shipping",
+            8
+        ],
+        [
+            "Water and sanitation",
+            "Infrastructure",
+            14
+        ],
+        [
+            "Water and sanitation policy and administration",
+            "Water and sanitation",
+            1
+        ],
+        [
+            "Water quality testing",
+            "Water and sanitation",
+            2
+        ],
+        [
+            "Development assistance for water and sanitation",
+            "Water and sanitation",
+            1
+        ],
+        [
+            "Water and sanitation funding",
+            "Development assistance for water and sanitation",
+            0
+        ],
+        [
+            "Water and sanitation NGOs",
+            "Development assistance for water and sanitation",
+            2
+        ],
+        [
+            "Water and sanitation infrastructure and facilities",
+            "Water and sanitation",
+            4
+        ],
+        [
+            "Rural water and sanitation infrastructure",
+            "Water and sanitation infrastructure and facilities",
+            0
+        ],
+        [
+            "Rural water supply",
+            "Rural water and sanitation infrastructure",
+            2
+        ],
+        [
+            "Rural sanitation",
+            "Rural water and sanitation infrastructure",
+            3
+        ],
+        [
+            "Urban water and sanitation infrastructure",
+            "Water and sanitation infrastructure and facilities",
+            0
+        ],
+        [
+            "Urban water supplies and distribution",
+            "Urban water and sanitation infrastructure",
+            1
+        ],
+        [
+            "Urban sanitation infrastructure",
+            "Urban water and sanitation infrastructure",
+            1
+        ],
+        [
+            "Labor",
+            "All",
+            97
+        ],
+        [
+            "Labor policy and administration",
+            "Labor",
+            13
+        ],
+        [
+            "Minimum wage",
+            "Labor policy and administration",
+            5
+        ],
+        [
+            "Safety and health at work",
+            "Labor policy and administration",
+            3
+        ],
+        [
+            "Worker rights",
+            "Labor policy and administration",
+            1
+        ],
+        [
+            "Protection for overseas workers",
+            "Labor policy and administration",
+            0
+        ],
+        [
+            "Formal labor",
+            "Labor",
+            9
+        ],
+        [
+            "Informal labor",
+            "Labor",
+            4
+        ],
+        [
+            "Offshore recruitment and employment",
+            "Labor",
+            1
+        ],
+        [
+            "Illegal labor",
+            "Labor",
+            1
+        ],
+        [
+            "Human trafficking",
+            "Illegal labor",
+            18
+        ],
+        [
+            "Child labor",
+            "Illegal labor",
+            6
+        ],
+        [
+            "Commercial sex labor",
+            "Illegal labor",
+            0
+        ],
+        [
+            "Unions",
+            "Labor",
+            20
+        ],
+        [
+            "Labor arbitration",
+            "Labor",
+            1
+        ],
+        [
+            "Development assistance for labor rights and labor unions",
+            "Labor",
+            2
+        ],
+        [
+            "Labor rights and labor unions funding",
+            "Development assistance for labor rights and labor unions",
+            0
+        ],
+        [
+            "Labor rights and labor unions NGOs",
+            "Development assistance for labor rights and labor unions",
+            16
+        ],
+        [
+            "Land",
+            "All",
+            938
+        ],
+        [
+            "Land policy and administration",
+            "Land",
+            52
+        ],
+        [
+            "Land classifications",
+            "Land",
+            390
+        ],
+        [
+            "State public land",
+            "Land classifications",
+            67
+        ],
+        [
+            "State private land",
+            "Land classifications",
+            303
+        ],
+        [
+            "Private land",
+            "Land classifications",
+            306
+        ],
+        [
+            "Land tenure and land titling",
+            "Land",
+            44
+        ],
+        [
+            "Development and assistance for land tenure and land titling",
+            "Land tenure and land titling",
+            11
+        ],
+        [
+            "Land tenure and land titling funding",
+            "Development and assistance for land tenure and land titling",
+            0
+        ],
+        [
+            "Land tenure and land titling NGOs",
+            "Development and assistance for land tenure and land titling",
+            0
+        ],
+        [
+            "Land transfers",
+            "Land",
+            15
+        ],
+        [
+            "Land sales and trades",
+            "Land transfers",
+            9
+        ],
+        [
+            "Expropriation",
+            "Land transfers",
+            7
+        ],
+        [
+            "Public land lease",
+            "Land",
+            404
+        ],
+        [
+            "Concessions",
+            "Public land lease",
+            445
+        ],
+        [
+            "Special economic zones",
+            "Public land lease",
+            45
+        ],
+        [
+            "Communal land",
+            "Land",
+            15
+        ],
+        [
+            "Social land concessions",
+            "Land",
+            0
+        ],
+        [
+            "Landmines, UXO and demining",
+            "Land",
+            2
+        ],
+        [
+            "Law and judiciary",
+            "All",
+            374
+        ],
+        [
+            "Constitution and rights",
+            "Law and judiciary",
+            45
+        ],
+        [
+            "Law making process",
+            "Law and judiciary",
+            3
+        ],
+        [
+            "Legal framework",
+            "Law and judiciary",
+            379
+        ],
+        [
+            "International laws and treaties ",
+            "Legal framework",
+            4
+        ],
+        [
+            "Laws and regulations",
+            "Legal framework",
+            746
+        ],
+        [
+            "Rights of the accused",
+            "Legal framework",
+            0
+        ],
+        [
+            "Legal system and judicial system",
+            "Law and judiciary",
+            7
+        ],
+        [
+            "Judiciary and courts",
+            "Legal system and judicial system",
+            38
+        ],
+        [
+            "Law on judiciary",
+            "Judiciary and courts",
+            1
+        ],
+        [
+            "Judiciary and court structure",
+            "Judiciary and courts",
+            4
+        ],
+        [
+            "Court monitoring",
+            "Judiciary and courts",
+            0
+        ],
+        [
+            "Criminal litigation",
+            "Legal system and judicial system",
+            2
+        ],
+        [
+            "Civil and commercial litigation",
+            "Legal system and judicial system",
+            1
+        ],
+        [
+            "Alternative dispute resolution",
+            "Legal system and judicial system",
+            3
+        ],
+        [
+            "Legal aid",
+            "Law and judiciary",
+            1
+        ],
+        [
+            "Legal aid policy and regulation",
+            "Legal aid",
+            0
+        ],
+        [
+            "Legal aid providers",
+            "Legal aid",
+            0
+        ],
+        [
+            "Bar Association and legal aid services",
+            "Legal aid providers",
+            0
+        ],
+        [
+            "Legal aid NGOs",
+            "Legal aid providers",
+            0
+        ],
+        [
+            "Legal and judicial reform",
+            "Law and judiciary",
+            7
+        ],
+        [
+            "Development and assistance for judicial reform",
+            "Legal and judicial reform",
+            0
+        ],
+        [
+            "Legal and judicial reform funding",
+            "Development and assistance for judicial reform",
+            0
+        ],
+        [
+            "Legal and judicial reform NGOs",
+            "Development and assistance for judicial reform",
+            3
+        ],
+        [
+            "Legal professions and services",
+            "Law and judiciary",
+            0
+        ],
+        [
+            "Regulation of legal professions",
+            "Legal professions and services",
+            1
+        ],
+        [
+            "Regulation of judges",
+            "Regulation of legal professions",
+            0
+        ],
+        [
+            "Regulation of lawyers",
+            "Regulation of legal professions",
+            1
+        ],
+        [
+            "Regulation of court clerks",
+            "Regulation of legal professions",
+            0
+        ],
+        [
+            "Bar Association",
+            "Legal professions and services",
+            0
+        ],
+        [
+            "Public and administrative legal services",
+            "Legal professions and services",
+            1
+        ],
+        [
+            "Legal education for professionals",
+            "Legal professions and services",
+            1
+        ],
+        [
+            "Judge education",
+            "Legal education for professionals",
+            0
+        ],
+        [
+            "Lawyer education",
+            "Legal education for professionals",
+            0
+        ],
+        [
+            "Court clerk education",
+            "Legal education for professionals",
+            0
+        ],
+        [
+            "Legal education for the public",
+            "Legal professions and services",
+            1
+        ],
+        [
+            "Crime and law enforcement",
+            "Law and judiciary",
+            0
+        ],
+        [
+            "Crimes",
+            "Crime and law enforcement",
+            4
+        ],
+        [
+            "Traffic violation",
+            "Crime and law enforcement",
+            4
+        ],
+        [
+            "Police",
+            "Crime and law enforcement",
+            1
+        ],
+        [
+            "Prisons",
+            "Crime and law enforcement",
+            5
+        ],
+        [
+            "Prisons policy and administration",
+            "Prisons",
+            0
+        ],
+        [
+            "Prisoner rights",
+            "Prisons",
+            1
+        ],
+        [
+            "Prison monitoring",
+            "Prisons",
+            0
+        ],
+        [
+            "Population and censuses",
+            "All",
+            32
+        ],
+        [
+            "Population",
+            "Population and censuses",
+            44
+        ],
+        [
+            "Demographics",
+            "Population",
+            5
+        ],
+        [
+            "Migration",
+            "Population",
+            33
+        ],
+        [
+            "Immigration",
+            "Migration",
+            4
+        ],
+        [
+            "Emigration",
+            "Migration",
+            11
+        ],
+        [
+            "Informal migration for labor",
+            "Migration",
+            19
+        ],
+        [
+            "Foreign workers in country",
+            "Informal migration for labor",
+            4
+        ],
+        [
+            "Local workers abroad",
+            "Informal migration for labor",
+            4
+        ],
+        [
+            "Censuses",
+            "Population and censuses",
+            32
+        ],
+        [
+            "Provincial profiles",
+            "Population and censuses",
+            1
+        ],
+        [
+            "Social development",
+            "All",
+            126
+        ],
+        [
+            "Arts",
+            "Social development",
+            0
+        ],
+        [
+            "Arts policy and administration",
+            "Arts",
+            0
+        ],
+        [
+            "Arts education",
+            "Arts",
+            0
+        ],
+        [
+            "Arts support",
+            "Arts",
+            0
+        ],
+        [
+            "Arts funding",
+            "Arts support",
+            0
+        ],
+        [
+            "Arts NGOs",
+            "Arts support",
+            0
+        ],
+        [
+            "Arts associations",
+            "Arts support",
+            0
+        ],
+        [
+            "The aged",
+            "Social development",
+            3
+        ],
+        [
+            "The aged policy and administration",
+            "The aged",
+            2
+        ],
+        [
+            "Development and assistance for the aged",
+            "The aged",
+            0
+        ],
+        [
+            "The aged assistance funding",
+            "Development and assistance for the aged",
+            1
+        ],
+        [
+            "The aged assistance NGOs",
+            "Development and assistance for the aged",
+            0
+        ],
+        [
+            "Seniors associations",
+            "Development and assistance for the aged",
+            0
+        ],
+        [
+            "Civil society",
+            "Social development",
+            11
+        ],
+        [
+            "Civil society policy and regulation",
+            "Civil society",
+            1
+        ],
+        [
+            "Non-governmental organizations",
+            "Civil society",
+            1
+        ],
+        [
+            "Associations and other membership groups",
+            "Civil society",
+            0
+        ],
+        [
+            "Civil society coalitions and cooperation",
+            "Civil society",
+            0
+        ],
+        [
+            "Disabled persons",
+            "Social development",
+            0
+        ],
+        [
+            "Disabled persons policy and administration",
+            "Disabled persons",
+            0
+        ],
+        [
+            "Disabled persons rights",
+            "Disabled persons policy and administration",
+            0
+        ],
+        [
+            "Development and assistance for disabled persons",
+            "Disabled persons",
+            0
+        ],
+        [
+            "Disabled persons assistance funding",
+            "Development and assistance for disabled persons",
+            0
+        ],
+        [
+            "Disabled persons assistance NGOs",
+            "Development and assistance for disabled persons",
+            0
+        ],
+        [
+            "Education and training",
+            "Social development",
+            25
+        ],
+        [
+            "Education policy and administration",
+            "Education and training",
+            12
+        ],
+        [
+            "Pre school",
+            "Education and training",
+            1
+        ],
+        [
+            "Primary and secondary education",
+            "Education and training",
+            6
+        ],
+        [
+            "Vocational education",
+            "Education and training",
+            3
+        ],
+        [
+            "Higher education",
+            "Education and training",
+            12
+        ],
+        [
+            "Universities",
+            "Higher education",
+            0
+        ],
+        [
+            "Graduate programs",
+            "Higher education",
+            0
+        ],
+        [
+            "Study abroad",
+            "Higher education",
+            0
+        ],
+        [
+            "Adult literacy",
+            "Education and training",
+            2
+        ],
+        [
+            "Development and assistance for education",
+            "Education and training",
+            0
+        ],
+        [
+            "Education funding",
+            "Development and assistance for education",
+            1
+        ],
+        [
+            "Education NGOs",
+            "Development and assistance for education",
+            0
+        ],
+        [
+            "Education associations",
+            "Development and assistance for education",
+            0
+        ],
+        [
+            "Ethnic minorities and indigenous people",
+            "Social development",
+            29
+        ],
+        [
+            "Ethnic minorities and indigenous people profiles",
+            "Ethnic minorities and indigenous people",
+            2
+        ],
+        [
+            "Ethnic minorities and indigenous people policy and rights",
+            "Ethnic minorities and indigenous people",
+            4
+        ],
+        [
+            "Development and assistance for ethnic minorities and indigenous people",
+            "Ethnic minorities and indigenous people",
+            10
+        ],
+        [
+            "Ethnic minorities and indigenous people development funding",
+            "Development and assistance for ethnic minorities and indigenous people",
+            0
+        ],
+        [
+            "Ethnic minorities and indigenous people development NGOs",
+            "Development and assistance for ethnic minorities and indigenous people",
+            0
+        ],
+        [
+            "Ethnic minorities and indigenous people associations",
+            "Development and assistance for ethnic minorities and indigenous people",
+            1
+        ],
+        [
+            "Family, children and youth",
+            "Social development",
+            6
+        ],
+        [
+            "Family, children, and youth policy and administration",
+            "Family, children and youth",
+            1
+        ],
+        [
+            "Child rights",
+            "Family, children, and youth policy and administration",
+            4
+        ],
+        [
+            "Access to education",
+            "Family, children, and youth policy and administration",
+            19
+        ],
+        [
+            "Domestic violence",
+            "Family, children, and youth policy and administration",
+            1
+        ],
+        [
+            "Marriage and divorce",
+            "Family, children and youth",
+            1
+        ],
+        [
+            "Orphans and children without homes",
+            "Family, children and youth",
+            0
+        ],
+        [
+            "Development and assistance for families, children and youth",
+            "Family, children and youth",
+            2
+        ],
+        [
+            "Families, children and youth funding",
+            "Development and assistance for families, children and youth",
+            0
+        ],
+        [
+            "families, children and youth development NGOs",
+            "Development and assistance for families, children and youth",
+            0
+        ],
+        [
+            "Youth associations",
+            "Development and assistance for families, children and youth",
+            0
+        ],
+        [
+            "Gender",
+            "Social development",
+            18
+        ],
+        [
+            "Lesbian, gay, bi-sexual, transgender, and queer (LGBTQ)",
+            "Gender",
+            1
+        ],
+        [
+            "LGBTQ policy and rights",
+            "Lesbian, gay, bi-sexual, transgender, and queer (LGBTQ)",
+            0
+        ],
+        [
+            "Development and assistance for LGBTQ community",
+            "Lesbian, gay, bi-sexual, transgender, and queer (LGBTQ)",
+            0
+        ],
+        [
+            "LGBTQ funding",
+            "Development and assistance for LGBTQ community",
+            0
+        ],
+        [
+            "LGBTQ development NGOs",
+            "Development and assistance for LGBTQ community",
+            0
+        ],
+        [
+            "LGBTQ associations",
+            "Development and assistance for LGBTQ community",
+            0
+        ],
+        [
+            "Women",
+            "Gender",
+            9
+        ],
+        [
+            "Women policy and administration",
+            "Women",
+            2
+        ],
+        [
+            "Women's rights",
+            "Women policy and administration",
+            3
+        ],
+        [
+            "Women in government and politics",
+            "Women",
+            4
+        ],
+        [
+            "Women in development",
+            "Women",
+            3
+        ],
+        [
+            "Women in the family",
+            "Women",
+            0
+        ],
+        [
+            "Development and assistance for women",
+            "Women",
+            0
+        ],
+        [
+            "Women's development funding",
+            "Development and assistance for women",
+            0
+        ],
+        [
+            "Women's development NGOs",
+            "Development and assistance for women",
+            0
+        ],
+        [
+            "Women's associations",
+            "Development and assistance for women",
+            1
+        ],
+        [
+            "Human rights",
+            "Gender",
+            43
+        ],
+        [
+            "Civil and political rights",
+            "Human rights",
+            18
+        ],
+        [
+            "Freedom of expression",
+            "Civil and political rights",
+            4
+        ],
+        [
+            "Freedom of association",
+            "Civil and political rights",
+            2
+        ],
+        [
+            "Access to information",
+            "Civil and political rights",
+            28
+        ],
+        [
+            "Economic, social and cultural rights",
+            "Human rights",
+            4
+        ],
+        [
+            "Free, prior and informed consent (FPIC)",
+            "Economic, social and cultural rights",
+            0
+        ],
+        [
+            "Land and housing rights and evictions",
+            "Economic, social and cultural rights",
+            46
+        ],
+        [
+            "Religious freedom",
+            "Economic, social and cultural rights",
+            0
+        ],
+        [
+            "Buddhist clergy rights",
+            "Religious freedom",
+            0
+        ],
+        [
+            "Minority religions",
+            "Religious freedom",
+            0
+        ],
+        [
+            "Livelihood rights",
+            "Economic, social and cultural rights",
+            28
+        ],
+        [
+            "Development and assistance for human rights",
+            "Human rights",
+            3
+        ],
+        [
+            "Human rights funding",
+            "Development and assistance for human rights",
+            0
+        ],
+        [
+            "Human rights NGOs",
+            "Development and assistance for human rights",
+            9
+        ],
+        [
+            "Human rights associations",
+            "Development and assistance for human rights",
+            3
+        ],
+        [
+            "The poor",
+            "Gender",
+            13
+        ],
+        [
+            "Poverty policy and regulation",
+            "The poor",
+            4
+        ],
+        [
+            "Poverty reduction",
+            "Poverty policy and regulation",
+            27
+        ],
+        [
+            "Food security",
+            "Poverty policy and regulation",
+            34
+        ],
+        [
+            "Access to education and health care",
+            "Poverty policy and regulation",
+            12
+        ],
+        [
+            "Development assistance for poverty reduction and food security",
+            "The poor",
+            4
+        ],
+        [
+            "Poverty reduction and food securities assistance funding",
+            "Development assistance for poverty reduction and food security",
+            0
+        ],
+        [
+            "Poverty reduction and food securities assistance NGOs",
+            "Development assistance for poverty reduction and food security",
+            2
+        ],
+        [
+            "Public health",
+            "Gender",
+            50
+        ],
+        [
+            "Health care policy and administration",
+            "Public health",
+            18
+        ],
+        [
+            "Patient rights",
+            "Health care policy and administration",
+            0
+        ],
+        [
+            "Hospitals and clinics",
+            "Public health",
+            12
+        ],
+        [
+            "Mental health and social services",
+            "Public health",
+            8
+        ],
+        [
+            "Medical professionals",
+            "Public health",
+            0
+        ],
+        [
+            "Medical education and training",
+            "Medical professionals",
+            0
+        ],
+        [
+            "Medical certification and regulation",
+            "Medical professionals",
+            0
+        ],
+        [
+            "Medical professional associations",
+            "Medical professionals",
+            0
+        ],
+        [
+            "Pharmaceuticals",
+            "Public health",
+            5
+        ],
+        [
+            "Priority health concerns",
+            "Public health",
+            10
+        ],
+        [
+            "Avian flu (bird flu)",
+            "Priority health concerns",
+            0
+        ],
+        [
+            "HIV/AIDS",
+            "Priority health concerns",
+            0
+        ],
+        [
+            "Malaria",
+            "Priority health concerns",
+            0
+        ],
+        [
+            "Maternal and child health",
+            "Priority health concerns",
+            8
+        ],
+        [
+            "Tuberculosis",
+            "Priority health concerns",
+            0
+        ],
+        [
+            "Development assistance for health sector",
+            "Public health",
+            0
+        ],
+        [
+            "Public health assistance funding",
+            "Development assistance for health sector",
+            0
+        ],
+        [
+            "Public health assistance NGOs",
+            "Development assistance for health sector",
+            2
+        ],
+        [
+            "Social security and veterans",
+            "Gender",
+            1
+        ],
+        [
+            "Social security and veterans policy and administration",
+            "Social security and veterans",
+            1
+        ],
+        [
+            "Sport",
+            "Gender",
+            0
+        ],
+        [
+            "Sports policy and administration",
+            "Sport",
+            0
+        ],
+        [
+            "Sports education and training",
+            "Sport",
+            0
+        ],
+        [
+            "Development and assistance for sports",
+            "Sport",
+            0
+        ],
+        [
+            "Sports development and assistance funding",
+            "Development and assistance for sports",
+            0
+        ],
+        [
+            "Sports development and assistance NGOs",
+            "Development and assistance for sports",
+            0
+        ],
+        [
+            "Public sports venues",
+            "Sport",
+            0
+        ],
+        [
+            "Sports leagues",
+            "Sport",
+            0
+        ],
+        [
+            "Urban administration and development",
+            "All",
+            24
+        ],
+        [
+            "Urban development trends",
+            "Urban administration and development",
+            10
+        ],
+        [
+            "Urban policy and administration",
+            "Urban administration and development",
+            5
+        ],
+        [
+            "City profiles",
+            "Urban administration and development",
+            1
+        ],
+        [
+            "Science and technology",
+            "All",
+            11
+        ],
+        [
+            "Science and technology policy and administration",
+            "Science and technology",
+            1
+        ],
+        [
+            "Science and technology research and development",
+            "Science and technology",
+            6
+        ],
+        [
+            "Technologies",
+            "Science and technology",
+            16
+        ],
+        [
+            "Atomic energy and nuclear technology",
+            "Technologies",
+            0
+        ],
+        [
+            "Material science",
+            "Technologies",
+            1
+        ],
+        [
+            "Open technologies",
+            "Technologies",
+            1
+        ],
+        [
+            "Space technologies",
+            "Technologies",
+            0
+        ],
+        [
+            "Science and technology education and promotion",
+            "Science and technology",
+            2
+        ]
+    ]
+
+}
