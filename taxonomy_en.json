@@ -379,6 +379,12 @@
               "name": "Non-renewable energy production",
               "children": [
                 {
+                  "name": "Coal"
+                },
+                {
+                  "name": "Diesel"
+                },
+                {
                   "name": "Oil and gas"
                 }
               ]
@@ -493,7 +499,7 @@
                   "name": "Clean development mechanism"
                 },
                 {
-                  "name": "Nationally Appropriate Mitigation Action"
+                  "name": "Nationally appropriate mitigation action"
                 }
               ]
             }
@@ -532,7 +538,18 @@
                   "name": "Forest cover reporting"
                 },
                 {
-                  "name": "Deforestation drivers"
+                  "name": "Deforestation drivers",
+                  "children": [
+                    {
+                      "name": "Illegal logging"
+                    },
+                    {
+                      "name": "Land conversion"
+                    },
+                    {
+                      "name": "Concessions"
+                    }
+                  ]
                 }
               ]
             },
@@ -685,7 +702,7 @@
               "name": "Extractive industries licensing and payments"
             },
             {
-              "name": "Extractive industries revenue"
+              "name": "Extractive industries revenues"
             }
           ]
         },
@@ -1220,7 +1237,15 @@
           "name": "Public land lease",
           "children": [
             {
-              "name": "Concessions"
+              "name": "Concessions",
+              "children": [
+                {
+                  "name": "Economic land concessions"
+                },
+                {
+                  "name": "Other concessions"
+                }
+              ]
             },
             {
               "name": "Special economic zones"
@@ -1373,7 +1398,7 @@
               "name": "Crimes"
             },
             {
-              "name": "Traffic violation"
+              "name": "Traffic violations"
             },
             {
               "name": "Police"
@@ -1552,7 +1577,7 @@
           "name": "Education and training",
           "children": [
             {
-              "name": "Education policy and administration"
+              "name": "Education and training policy and administration"
             },
             {
               "name": "Pre school"
@@ -1600,7 +1625,27 @@
           "name": "Ethnic minorities and indigenous people",
           "children": [
             {
-              "name": "Ethnic minorities and indigenous people profiles"
+              "name": "Ethnic minorities and indigenous people profiles",
+              "children": [
+                {
+                  "name": "Demographics"
+                },
+                {
+                  "name": "Geography"
+                },
+                {
+                  "name": "Language"
+                },
+                {
+                  "name": "Culture and religion"
+                },
+                {
+                  "name": "Livelihood"
+                },
+                {
+                  "name": "Issues and problems"
+                }
+              ]
             },
             {
               "name": "Ethnic minorities and indigenous people policy and rights"
@@ -1869,7 +1914,7 @@
               ]
             },
             {
-              "name": "Development assistance for health sector",
+              "name": "Development and assistance for health sector",
               "children": [
                 {
                   "name": "Public health assistance funding"
@@ -1916,6 +1961,37 @@
               "name": "Sports leagues"
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Science and technology",
+      "children": [
+        {
+          "name": "Science and technology policy and administration"
+        },
+        {
+          "name": "Science and technology research and development"
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Atomic energy and nuclear technology"
+            },
+            {
+              "name": "Material sciences"
+            },
+            {
+              "name": "Open technologies"
+            },
+            {
+              "name": "Space technologies"
+            }
+          ]
+        },
+        {
+          "name": "Science and technology education and promotion"
         }
       ]
     },
@@ -1972,37 +2048,6 @@
       ]
     },
     {
-      "name": "Science and technology",
-      "children": [
-        {
-          "name": "Science and technology policy and administration"
-        },
-        {
-          "name": "Science and technology research and development"
-        },
-        {
-          "name": "Technologies",
-          "children": [
-            {
-              "name": "Atomic energy and nuclear technology"
-            },
-            {
-              "name": "Material science"
-            },
-            {
-              "name": "Open technologies"
-            },
-            {
-              "name": "Space technologies"
-            }
-          ]
-        },
-        {
-          "name": "Science and technology education and promotion"
-        }
-      ]
-    },
-    {
       "name": "Sustainable development goals",
       "children": [
         {
@@ -2033,7 +2078,7 @@
           "name": "SDG 9 Industry, innovation and infrastructure"
         },
         {
-          "name": "SDG 10 Reduce inequality"
+          "name": "SDG 10 Reduce inequalities"
         },
         {
           "name": "SDG 11 Sustainable cities and communities"
